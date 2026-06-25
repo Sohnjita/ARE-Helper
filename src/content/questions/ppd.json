@@ -1,0 +1,845 @@
+[
+  {
+    "id": "PPD-ENV-001",
+    "division": "PPD",
+    "contentAreaCode": "ENV",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "A design team is orienting a rectangular classroom building on an east-west site in a temperate climate. Which strategy best reduces unwanted solar heat gain while still allowing daylight into south-facing classrooms?",
+    "options": [
+      "Horizontal overhangs sized for the sun angle, combined with high-performance glazing",
+      "Unshaded floor-to-ceiling glazing on the south facade to maximize daylight",
+      "Vertical fins on the south facade only, with no horizontal shading",
+      "Tinted glazing on the north facade to balance heat gain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Horizontal overhangs are most effective at blocking high-angle summer sun on south-facing facades while still admitting lower-angle winter sun, and pairing them with high-performance glazing further controls unwanted heat gain. Vertical fins are more effective on east/west facades where sun angles are lower and more lateral. Unshaded glazing maximizes both daylight and unwanted heat gain.",
+    "tags": ["solar control", "orientation", "shading"],
+    "reference": "Sun-control and shading device design basics"
+  },
+  {
+    "id": "PPD-ENV-002",
+    "division": "PPD",
+    "contentAreaCode": "ENV",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A LEED-seeking project team wants to reduce the urban heat island effect created by a large surface parking lot. Which strategy directly addresses this goal?",
+    "options": [
+      "Specifying high-albedo paving materials and shade trees over the parking area",
+      "Increasing the number of parking spaces to meet zoning minimums",
+      "Adding a dark-colored asphalt sealant to extend pavement life",
+      "Relocating the parking lot to the building's north side only"
+    ],
+    "correctIndex": 0,
+    "explanation": "High-reflectance (high-albedo) paving and tree canopy shading both reduce the amount of solar heat absorbed and re-radiated by paved surfaces, directly mitigating heat island effect. Dark sealants increase heat absorption, and simply relocating the lot does not change the amount of heat-absorbing surface area.",
+    "tags": ["heat island", "sustainable sites", "leed"],
+    "reference": "Sustainable Sites credit concepts - heat island reduction"
+  },
+  {
+    "id": "PPD-ENV-003",
+    "division": "PPD",
+    "contentAreaCode": "ENV",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which site design strategy is most effective at reducing stormwater runoff volume from a new development?",
+    "options": [
+      "Increasing pervious surfaces and incorporating bioretention areas",
+      "Maximizing impervious paved area for vehicle circulation",
+      "Routing all roof drains directly into the municipal storm sewer",
+      "Compacting site soils prior to landscaping"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pervious paving and bioretention (rain gardens, swales) allow stormwater to infiltrate on site, reducing runoff volume and peak flow rates. Impervious surfaces and direct piped discharge increase runoff, and soil compaction reduces infiltration capacity.",
+    "tags": ["stormwater", "site design", "sustainability"],
+    "reference": "Low-impact development stormwater concepts"
+  },
+  {
+    "id": "PPD-ENV-004",
+    "division": "PPD",
+    "contentAreaCode": "ENV",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "A project team is evaluating passive design strategies for a building in a hot, arid climate. Which of the following strategies are appropriate for this climate? (Select 2)",
+    "options": [
+      "Thermal mass walls that absorb daytime heat and release it at night",
+      "Large unshaded west-facing glazing to capture afternoon light",
+      "High-performance reflective roofing to reduce solar heat gain",
+      "Dark-colored exterior wall finishes to maximize heat absorption",
+      "Eliminating all operable windows to reduce infiltration"
+    ],
+    "correctIndexes": [0, 2],
+    "selectCount": 2,
+    "explanation": "In hot, arid climates with large diurnal temperature swings, thermal mass helps moderate interior temperature by storing heat during the day and releasing it at night, while reflective roofing reduces solar heat gain. Unshaded west glazing and dark finishes increase unwanted heat gain, and eliminating operable windows removes a passive cooling opportunity during cooler periods.",
+    "tags": ["climate", "passive design", "thermal mass"],
+    "reference": "Climate-responsive design strategies"
+  },
+  {
+    "id": "PPD-ENV-005",
+    "division": "PPD",
+    "contentAreaCode": "ENV",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A coastal project is sited in a region with expected sea-level rise and increased storm surge over the building's service life. Which design response best addresses long-term resilience?",
+    "options": [
+      "Elevating critical mechanical and electrical equipment above projected flood elevations",
+      "Placing all building systems in the lowest level to simplify maintenance access",
+      "Relying solely on insurance to cover anticipated flood damage",
+      "Specifying standard wood-frame construction at grade without elevation changes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elevating critical infrastructure above projected design flood elevations (often using freeboard above the base flood elevation) is a core resilient design strategy that keeps a building operational after a flood event. Placing systems at the lowest level maximizes their vulnerability, and insurance does not prevent physical damage or downtime.",
+    "tags": ["resilience", "flood design", "climate adaptation"],
+    "reference": "Resilient design - flood mitigation strategies"
+  },
+  {
+    "id": "PPD-ENV-006",
+    "division": "PPD",
+    "contentAreaCode": "ENV",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A daylighting consultant recommends light shelves at a clerestory window in a classroom. What is the primary design intent of a light shelf?",
+    "options": [
+      "Reflect daylight deeper into the room while shading the window below it",
+      "Block all daylight from entering the space during school hours",
+      "Provide a structural ledge for mounting window-washing equipment",
+      "Reduce the glazing area required for code-minimum daylighting"
+    ],
+    "correctIndex": 0,
+    "explanation": "A light shelf is a horizontal element placed at or above eye level that reflects daylight up onto the ceiling and deeper into the room, improving daylight distribution while also shading the glazing directly below it from direct sun and glare.",
+    "tags": ["daylighting", "light shelf"],
+    "reference": "Daylighting design strategies"
+  },
+  {
+    "id": "PPD-ENV-007",
+    "division": "PPD",
+    "contentAreaCode": "ENV",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which building envelope strategy most directly reduces unwanted air infiltration and associated energy loss?",
+    "options": [
+      "A continuous, sealed air barrier system across the building enclosure",
+      "Increasing the number of operable windows on every facade",
+      "Specifying lightweight metal stud framing instead of wood",
+      "Reducing the depth of wall insulation to simplify detailing"
+    ],
+    "correctIndex": 0,
+    "explanation": "A continuous air barrier limits uncontrolled air leakage through the enclosure, which is a major source of energy loss and comfort problems. Insulation reduces conductive heat loss but does not by itself stop air leakage; the framing material choice and window count do not address infiltration control.",
+    "tags": ["air barrier", "building envelope", "energy"],
+    "reference": "Building enclosure - air barrier continuity"
+  },
+  {
+    "id": "PPD-ENV-008",
+    "division": "PPD",
+    "contentAreaCode": "ENV",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "A net-zero energy project team is finalizing the building's energy strategy. Which of the following design moves directly reduce the building's energy use intensity (EUI) before renewable generation is added? (Select 3)",
+    "options": [
+      "Optimizing the building's form and orientation to reduce envelope load",
+      "Specifying a high-efficiency heat recovery ventilation system",
+      "Adding a larger rooftop photovoltaic array",
+      "Reducing window-to-wall ratio on east and west facades to limit solar gain",
+      "Purchasing renewable energy credits (RECs) from an off-site wind farm",
+      "Specifying low-flow plumbing fixtures"
+    ],
+    "correctIndexes": [0, 1, 3],
+    "selectCount": 3,
+    "explanation": "Reducing EUI is about lowering actual energy consumption through passive form/orientation strategies, efficient mechanical systems like heat recovery ventilation, and limiting solar heat gain through glazing ratio control. Photovoltaic arrays and RECs address energy supply/offsets rather than reducing demand, and low-flow fixtures reduce water use, not energy use intensity directly.",
+    "tags": ["net zero", "energy use intensity", "passive design"],
+    "reference": "Energy use intensity reduction hierarchy"
+  },
+  {
+    "id": "PPD-ENV-009",
+    "division": "PPD",
+    "contentAreaCode": "ENV",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A classroom has a floor area of 900 SF. The project's sustainability goals call for a minimum of 2% effective aperture (vertical glazing area as a percentage of floor area) to support adequate daylighting. What is the minimum glazing area, in SF, required to meet this target?",
+    "correctValue": 18,
+    "tolerance": 1,
+    "unit": "SF",
+    "explanation": "Minimum glazing area is calculated as floor area multiplied by the target percentage: 900 SF x 0.02 = 18 SF. Effective aperture targets like this are a simplified rule of thumb used in early design to check whether a room's glazing area is likely to support useful daylight levels.",
+    "tags": ["daylighting", "glazing ratio", "calculation"],
+    "reference": "Daylighting rule-of-thumb - effective aperture"
+  },
+  {
+    "id": "PPD-ENV-010",
+    "division": "PPD",
+    "contentAreaCode": "ENV",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "A project team wants to reduce potable water consumption for landscape irrigation. Which strategy is most effective?",
+    "options": [
+      "Selecting drought-tolerant, native plant species and drip irrigation",
+      "Specifying a traditional turf lawn across the entire site",
+      "Using overhead spray irrigation on a fixed daily timer",
+      "Increasing the area of ornamental planting beds requiring daily watering"
+    ],
+    "correctIndex": 0,
+    "explanation": "Native and drought-tolerant plantings require significantly less supplemental irrigation than turf or ornamental beds, and drip irrigation delivers water efficiently directly to the root zone with minimal evaporative loss compared to overhead spray systems.",
+    "tags": ["water efficiency", "landscape", "xeriscape"],
+    "reference": "Water-efficient landscaping strategies"
+  },
+  {
+    "id": "PPD-BSM-001",
+    "division": "PPD",
+    "contentAreaCode": "BSM",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "In a rainscreen wall assembly, what is the primary function of the drainage cavity behind the cladding?",
+    "options": [
+      "Allow incidental water that passes the cladding to drain and the cavity to dry via ventilation",
+      "Provide thermal insulation value to the wall assembly",
+      "Serve as the primary air barrier for the building enclosure",
+      "Reduce the dead load of the cladding system on the structure"
+    ],
+    "correctIndex": 0,
+    "explanation": "A rainscreen's drainage/ventilation cavity allows any water that gets past the outer cladding to drain down and exit at the base of the wall, while air movement in the cavity helps the assembly dry out. Insulation, air barrier continuity, and dead load are addressed by other layers of the assembly.",
+    "tags": ["rainscreen", "wall assembly", "moisture control"],
+    "reference": "Rainscreen wall assembly principles"
+  },
+  {
+    "id": "PPD-BSM-002",
+    "division": "PPD",
+    "contentAreaCode": "BSM",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A designer is detailing the intersection of a curtain wall system with an exposed structural steel column. Which discipline coordination issue is most critical to resolve at this junction?",
+    "options": [
+      "Thermal bridging at the steel-to-glazing interface and differential movement between materials",
+      "The color selection of the curtain wall mullions",
+      "The brand of glazing sealant used by the installer",
+      "The aesthetic pattern of the spandrel panel graphics"
+    ],
+    "correctIndex": 0,
+    "explanation": "Where a curtain wall meets exposed structural steel, the architect must coordinate thermal breaks to limit conductive heat loss through the steel, as well as detailing that accommodates differential thermal and structural movement between the two systems. Aesthetic choices are secondary to these performance issues.",
+    "tags": ["curtain wall", "thermal bridging", "systems integration"],
+    "reference": "Building envelope and structure integration"
+  },
+  {
+    "id": "PPD-BSM-003",
+    "division": "PPD",
+    "contentAreaCode": "BSM",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "A design team is coordinating a suspended ceiling plenum that must accommodate structure, ductwork, sprinkler piping, and lighting. Which strategies help resolve clashes between these systems during design development? (Select 2)",
+    "options": [
+      "Establish a layering hierarchy (zoning) for each trade within the plenum depth",
+      "Run all ductwork, piping, and conduit at the same elevation throughout the plenum",
+      "Use 3D coordination/BIM clash detection before construction documents are finalized",
+      "Wait until construction to resolve conflicts in the field",
+      "Eliminate the ceiling plenum entirely on all building types"
+    ],
+    "correctIndexes": [0, 2],
+    "selectCount": 2,
+    "explanation": "Establishing a zoning hierarchy (e.g., structure highest, then ductwork, then piping, then conduit) and performing 3D clash detection during design are standard coordination methods that prevent costly field conflicts. Running all systems at one elevation guarantees clashes, and deferring resolution to construction increases cost and schedule risk.",
+    "tags": ["mep coordination", "bim", "clash detection"],
+    "reference": "Building systems integration - plenum coordination"
+  },
+  {
+    "id": "PPD-BSM-004",
+    "division": "PPD",
+    "contentAreaCode": "BSM",
+    "difficulty": "easy",
+    "type": "quant",
+    "prompt": "An exterior wall assembly is composed of layers with the following R-values: brick veneer R-0.4, airspace R-1.0, rigid insulation R-10.0, and gypsum board R-0.5. What is the total R-value of the assembly (ignoring stud framing factor)?",
+    "correctValue": 11.9,
+    "tolerance": 0.3,
+    "unit": "R-value",
+    "explanation": "Total R-value for layers in series is the sum of each layer's R-value: 0.4 + 1.0 + 10.0 + 0.5 = 11.9. This simplified calculation ignores the framing factor and air films, which would be included in a more detailed energy model but are commonly omitted in early rule-of-thumb checks.",
+    "tags": ["r-value", "wall assembly", "calculation"],
+    "reference": "Thermal resistance calculation basics"
+  },
+  {
+    "id": "PPD-BSM-005",
+    "division": "PPD",
+    "contentAreaCode": "BSM",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A multi-story building uses a structural steel frame with a glass curtain wall. At each floor slab edge, what detailing issue must the architect resolve to maintain both fire safety and weather performance?",
+    "options": [
+      "Provide a fire-rated spandrel/perimeter fire containment system and continuous air/water seal at the slab edge",
+      "Specify the same glazing type used at vision areas for the spandrel condition",
+      "Leave an open gap at the slab edge for ease of future renovation access",
+      "Rely on the sprinkler system alone to control fire spread between floors"
+    ],
+    "correctIndex": 0,
+    "explanation": "At the slab edge of a curtain wall building, codes typically require a fire-rated perimeter containment system (spandrel panel plus fire-safing) to prevent vertical fire and smoke spread between floors, in addition to a continuous air and water seal to maintain envelope performance. Sprinklers alone do not satisfy compartmentation requirements at this condition.",
+    "tags": ["curtain wall", "fire safing", "slab edge"],
+    "reference": "Perimeter fire containment systems"
+  },
+  {
+    "id": "PPD-BSM-006",
+    "division": "PPD",
+    "contentAreaCode": "BSM",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "A design team is selecting an exterior wall cladding material for a building in a freeze-thaw climate. Which material properties should weigh most heavily in the selection? (Select 2)",
+    "options": [
+      "Low water absorption and resistance to freeze-thaw cracking",
+      "Compatibility with the substrate's differential movement characteristics",
+      "Availability of the material in the architect's preferred accent color",
+      "Lowest possible unit cost regardless of durability",
+      "Maximum possible material weight to maximize thermal mass"
+    ],
+    "correctIndexes": [0, 1],
+    "selectCount": 2,
+    "explanation": "In freeze-thaw climates, cladding materials must resist moisture absorption (which causes freeze-thaw spalling) and must be compatible with the differential movement of the substrate to avoid cracking or bond failure. Color preference and pure low-cost selection do not address long-term durability performance.",
+    "tags": ["cladding", "durability", "freeze-thaw"],
+    "reference": "Material selection - climate durability"
+  },
+  {
+    "id": "PPD-BSM-007",
+    "division": "PPD",
+    "contentAreaCode": "BSM",
+    "difficulty": "easy",
+    "type": "hotspot",
+    "diagramId": "wall-section",
+    "correctRegion": { "shape": "rect", "x": 56, "y": 66, "w": 16, "h": 4, "label": "through-wall flashing" },
+    "prompt": "In this exterior wall section, click on the through-wall flashing located above grade that is designed to direct moisture out of the wall assembly through the weep holes.",
+    "explanation": "Through-wall flashing intercepts water that gets behind the cladding and channels it back out of the wall through weep holes at the base of the veneer, preventing water from migrating further into the assembly or down to the foundation. It must be continuous and properly lapped with the water-resistive barrier above it.",
+    "tags": ["flashing", "moisture control", "wall section"],
+    "reference": "Wall section detailing - flashing and weeps"
+  },
+  {
+    "id": "PPD-BSM-008",
+    "division": "PPD",
+    "contentAreaCode": "BSM",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "wall-section",
+    "correctRegion": { "shape": "rect", "x": 59, "y": 20, "w": 2, "h": 48, "label": "WRB" },
+    "prompt": "Click on the water-resistive barrier (WRB) layer in this wall section, which forms a continuous secondary plane of protection behind the cladding.",
+    "explanation": "The water-resistive barrier is a continuous membrane installed over the sheathing that sheds any water that penetrates the cladding before it can reach the structural framing or insulation. It must integrate with flashings, window openings, and the air barrier to remain continuous around the building enclosure.",
+    "tags": ["wrb", "moisture control", "wall section"],
+    "reference": "Water-resistive barrier continuity"
+  },
+  {
+    "id": "PPD-BSM-009",
+    "division": "PPD",
+    "contentAreaCode": "BSM",
+    "difficulty": "easy",
+    "type": "hotspot",
+    "diagramId": "structural-framing",
+    "correctRegion": { "shape": "circle", "cx": 50, "cy": 50, "r": 5, "label": "interior column B-2" },
+    "prompt": "On this structural framing plan, click on the interior column at grid intersection B-2, which supports the largest tributary floor area among the columns shown.",
+    "explanation": "Interior columns typically carry tributary area extending halfway to each adjacent column line in every direction, making an interior column like B-2 responsible for a larger tributary floor area than an edge or corner column, which only carries tributary area from one or two sides. This directly affects the column's required size and foundation loading.",
+    "tags": ["tributary area", "columns", "structural framing"],
+    "reference": "Tributary area concepts for column loading"
+  },
+  {
+    "id": "PPD-BSM-010",
+    "division": "PPD",
+    "contentAreaCode": "BSM",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "structural-framing",
+    "correctRegion": { "shape": "rect", "x": 48, "y": 20, "w": 4, "h": 60, "label": "beam line B" },
+    "prompt": "Click on the beam line along grid line B in this structural framing plan.",
+    "explanation": "Beam lines along a gridline collect loads from the joists or framing members that bear on them and transfer those loads down to the supporting columns at each grid intersection. Identifying beam lines on a framing plan is essential for understanding the load path from floor to foundation.",
+    "tags": ["framing plan", "beams", "load path"],
+    "reference": "Structural framing plan conventions"
+  },
+  {
+    "id": "PPD-COST-001",
+    "division": "PPD",
+    "contentAreaCode": "COST",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "During schematic design, the architect provides the owner with a preliminary cost estimate based on building gross square footage multiplied by a typical cost-per-square-foot figure for similar building types. What type of estimate is this?",
+    "options": [
+      "A square-foot (order-of-magnitude) estimate",
+      "A detailed quantity survey estimate",
+      "A unit-price subcontractor bid estimate",
+      "A guaranteed maximum price (GMP) estimate"
+    ],
+    "correctIndex": 0,
+    "explanation": "A square-foot estimate is a quick, order-of-magnitude method appropriate for early design phases when detailed quantities are not yet available. Detailed quantity surveys, unit-price bids, and GMPs all require much more developed design information and are used at later project stages.",
+    "tags": ["cost estimating", "schematic design"],
+    "reference": "Cost estimating methods by design phase"
+  },
+  {
+    "id": "PPD-COST-002",
+    "division": "PPD",
+    "contentAreaCode": "COST",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A design-development cost estimate comes in 15% over the owner's approved budget. Which strategy best preserves design quality while addressing the overage?",
+    "options": [
+      "Conduct a value engineering review to identify cost savings without sacrificing core design intent",
+      "Immediately eliminate the project's sustainability features to cut cost",
+      "Proceed to construction documents without changes and address cost later",
+      "Reduce the structural design loads below code minimums to save material cost"
+    ],
+    "correctIndex": 0,
+    "explanation": "Value engineering systematically evaluates alternative materials, systems, and methods to reduce cost while maintaining function and design intent, making it the appropriate first response to a budget overage. Reducing structural loads below code minimums is unsafe and not permitted, and deferring the problem only increases the cost of later changes.",
+    "tags": ["value engineering", "budget", "cost control"],
+    "reference": "Cost control and value engineering process"
+  },
+  {
+    "id": "PPD-COST-003",
+    "division": "PPD",
+    "contentAreaCode": "COST",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "An owner is comparing the long-term financial implications of two HVAC system options during design development. Which factors should be included in a life-cycle cost analysis comparing the two systems? (Select 3)",
+    "options": [
+      "Initial installation cost",
+      "Projected energy consumption over the system's service life",
+      "Expected maintenance and replacement part costs",
+      "The architect's preferred aesthetic for exposed ductwork",
+      "The contractor's current backlog of other projects",
+      "Anticipated equipment service life and replacement cost"
+    ],
+    "correctIndexes": [0, 1, 2],
+    "selectCount": 3,
+    "explanation": "A life-cycle cost analysis weighs the total cost of owning and operating a system over time, including initial cost, energy consumption, and maintenance costs; equipment service life and replacement cost is also valid but the three most universally cited core factors are installation, energy, and maintenance costs. Aesthetic preferences and contractor backlog are not part of a quantitative life-cycle cost comparison.",
+    "tags": ["life-cycle cost", "hvac", "budgeting"],
+    "reference": "Life-cycle cost analysis components"
+  },
+  {
+    "id": "PPD-COST-004",
+    "division": "PPD",
+    "contentAreaCode": "COST",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A building program totals 42,000 SF of usable area. The design has an efficiency (usable-to-gross) ratio of 80%. What is the total gross building area, in SF, required to achieve this program?",
+    "correctValue": 52500,
+    "tolerance": 500,
+    "unit": "SF",
+    "explanation": "Gross area is calculated by dividing usable area by the efficiency ratio: 42,000 SF / 0.80 = 52,500 SF. This calculation accounts for circulation, structure, mechanical space, and wall thickness that is part of gross area but not usable program area.",
+    "tags": ["space programming", "efficiency ratio", "calculation"],
+    "reference": "Gross-to-net area efficiency ratios"
+  },
+  {
+    "id": "PPD-COST-005",
+    "division": "PPD",
+    "contentAreaCode": "COST",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which project delivery decision has the greatest direct impact on the accuracy of cost estimates available to the owner at the start of design?",
+    "options": [
+      "Whether a cost consultant or contractor is engaged early to provide ongoing estimates as design develops",
+      "The font and graphic style used on the architect's drawings",
+      "The number of consultants listed on the title block",
+      "The color scheme selected for the building's interior finishes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Engaging a cost consultant or a contractor (as in CM at-risk or design-build delivery) early in the process allows for ongoing, increasingly accurate cost feedback as the design develops, helping the team manage the budget proactively. Drawing aesthetics and title block contents have no bearing on cost estimate accuracy.",
+    "tags": ["cost estimating", "project delivery"],
+    "reference": "Early cost consultant engagement benefits"
+  },
+  {
+    "id": "PPD-COST-006",
+    "division": "PPD",
+    "contentAreaCode": "COST",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "An owner directs the design team to substitute a lower-cost roofing membrane than originally specified, reducing first cost by 10%. The architect's analysis shows the substitute has half the expected service life. What should the architect communicate to the owner?",
+    "options": [
+      "The life-cycle cost may be higher despite the lower first cost, due to earlier replacement",
+      "The substitution should be approved automatically since it meets the budget target",
+      "First cost is always the most important factor regardless of service life",
+      "Service life has no bearing on total project cost over time"
+    ],
+    "correctIndex": 0,
+    "explanation": "A lower first cost does not necessarily mean a lower total cost; if a substitute material has a significantly shorter service life, the owner may pay more in the long run through earlier replacement, associated labor, and disruption costs. Architects have a professional responsibility to communicate this kind of life-cycle cost tradeoff to the owner rather than evaluating substitutions on first cost alone.",
+    "tags": ["life-cycle cost", "substitution", "value engineering"],
+    "reference": "Life-cycle cost vs. first cost tradeoffs"
+  },
+  {
+    "id": "PPD-COST-007",
+    "division": "PPD",
+    "contentAreaCode": "COST",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "What is the primary purpose of including a construction contingency line item in a project budget during design development?",
+    "options": [
+      "To provide a financial buffer for unforeseen conditions and design changes as the project develops",
+      "To increase the architect's design fee",
+      "To pad the contractor's anticipated profit margin",
+      "To replace the need for a detailed cost estimate"
+    ],
+    "correctIndex": 0,
+    "explanation": "A contingency is a budgeted reserve, typically a percentage of construction cost, set aside to absorb the cost impact of unforeseen conditions, design refinements, or scope changes as the project moves from design through construction. It does not replace the need for accurate estimating and is unrelated to fee or profit margin.",
+    "tags": ["contingency", "budgeting"],
+    "reference": "Construction contingency purpose and sizing"
+  },
+  {
+    "id": "PPD-COST-008",
+    "division": "PPD",
+    "contentAreaCode": "COST",
+    "difficulty": "easy",
+    "type": "multi",
+    "prompt": "Which of the following are typically considered \"soft costs\" in an overall project budget, as distinct from construction (\"hard\") costs? (Select 2)",
+    "options": [
+      "Architectural and engineering design fees",
+      "Permitting and regulatory agency fees",
+      "Concrete, steel, and lumber material costs",
+      "Labor cost for installing the building's roofing system",
+      "Cost of the general contractor's site fencing"
+    ],
+    "correctIndexes": [0, 1],
+    "selectCount": 2,
+    "explanation": "Soft costs include professional fees, permitting, financing, and other costs not directly tied to physical construction. Material and installation labor costs, along with general contractor site costs like fencing, are hard (construction) costs that go directly into the physical building.",
+    "tags": ["soft costs", "hard costs", "budgeting"],
+    "reference": "Soft cost vs. hard cost classification"
+  },
+  {
+    "id": "PPD-COST-009",
+    "division": "PPD",
+    "contentAreaCode": "COST",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A design-development estimate for a 60,000 SF building totals $18,000,000 in construction cost. What is the project's cost per square foot?",
+    "correctValue": 300,
+    "tolerance": 5,
+    "unit": "$/SF",
+    "explanation": "Cost per square foot is calculated by dividing total construction cost by total gross building area: $18,000,000 / 60,000 SF = $300/SF. This metric is commonly used to benchmark a project's cost against similar building types and to track cost trends as the design develops.",
+    "tags": ["cost per square foot", "calculation"],
+    "reference": "Unit cost benchmarking"
+  },
+  {
+    "id": "PPD-COST-010",
+    "division": "PPD",
+    "contentAreaCode": "COST",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A design team is comparing two structural framing options: a post-tensioned concrete slab and a conventional steel frame with composite decking. The concrete option has a higher structural cost but a shallower floor-to-floor height. What downstream cost impact should the architect evaluate?",
+    "options": [
+      "Reduced building height may lower envelope, cladding, and elevator travel costs across multiple floors",
+      "The shallower floor-to-floor height has no impact on any other building cost",
+      "Floor-to-floor height only affects the structural cost itself",
+      "A taller building is always less expensive to construct overall"
+    ],
+    "correctIndex": 0,
+    "explanation": "A shallower floor-to-floor height, multiplied across many floors, can meaningfully reduce overall building height, which in turn can lower cladding/envelope area, elevator travel distance, stair and shaft lengths, and vertical mechanical distribution runs. This kind of cross-system cost impact is a key consideration when comparing structural systems beyond their direct material and labor cost.",
+    "tags": ["structural systems", "cost tradeoffs", "floor-to-floor height"],
+    "reference": "Structural system selection - downstream cost impacts"
+  },
+  {
+    "id": "PPD-CODE-001",
+    "division": "PPD",
+    "contentAreaCode": "CODE",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "What is the primary purpose of an occupancy classification assigned to a building under the building code?",
+    "options": [
+      "To establish the baseline life-safety, construction type, and egress requirements applicable to the space",
+      "To determine the architect's professional liability insurance premium",
+      "To set the building's required exterior paint color",
+      "To establish the owner's preferred interior finish palette"
+    ],
+    "correctIndex": 0,
+    "explanation": "Occupancy classification (such as Assembly, Business, or Educational) is the foundation for determining a building's required fire-resistance ratings, allowable construction type, occupant load factors, and egress requirements. It has no relationship to insurance premiums or finish/color selections.",
+    "tags": ["occupancy classification", "code basics"],
+    "reference": "IBC Ch. 3 - Occupancy Classification"
+  },
+  {
+    "id": "PPD-CODE-002",
+    "division": "PPD",
+    "contentAreaCode": "CODE",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A 4,500 SF open office area has an occupant load factor of 100 SF per occupant (gross). What is the occupant load for this space?",
+    "correctValue": 45,
+    "tolerance": 1,
+    "unit": "occupants",
+    "explanation": "Occupant load is calculated by dividing the floor area by the applicable occupant load factor: 4,500 SF / 100 SF per occupant = 45 occupants. This figure then determines the number and width of required exits from the space.",
+    "tags": ["occupant load", "egress", "calculation"],
+    "reference": "IBC Ch. 10 - Occupant load calculation"
+  },
+  {
+    "id": "PPD-CODE-003",
+    "division": "PPD",
+    "contentAreaCode": "CODE",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A means of egress component serves an occupant load of 240 people. Using a capacity factor of 0.2 inches per occupant for stairways, what is the minimum required clear egress width, in inches?",
+    "correctValue": 48,
+    "tolerance": 2,
+    "unit": "in",
+    "explanation": "Required egress width is calculated by multiplying the occupant load by the applicable capacity factor: 240 occupants x 0.2 in/occupant = 48 inches. Stairways and ramps typically use a higher capacity factor than level egress components such as doors and corridors, reflecting the added difficulty of egress on a sloped or stepped path.",
+    "tags": ["egress width", "occupant load", "stairs"],
+    "reference": "IBC Ch. 10 - Egress capacity calculation"
+  },
+  {
+    "id": "PPD-CODE-004",
+    "division": "PPD",
+    "contentAreaCode": "CODE",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A corridor serving multiple classrooms terminates in a single direction with no secondary path to an exit. Beyond what length does this condition typically become a code violation as a dead-end corridor?",
+    "options": [
+      "Beyond the maximum dead-end length permitted for the applicable occupancy, as defined in the building code",
+      "Dead-end corridors are never permitted under any circumstance",
+      "Dead-end length is not regulated by the building code",
+      "Any length is acceptable as long as the corridor is sprinklered"
+    ],
+    "correctIndex": 0,
+    "explanation": "Building codes set a maximum permitted dead-end corridor length (commonly a short limit, with some increase allowed in fully sprinklered buildings depending on occupancy), beyond which occupants would be required to travel too far without an alternate path to an exit. The exact limit varies by code edition and occupancy type, but the concept of a regulated maximum is consistent.",
+    "tags": ["dead-end corridor", "egress", "life safety"],
+    "reference": "IBC Ch. 10 - Dead-end corridor limits"
+  },
+  {
+    "id": "PPD-CODE-005",
+    "division": "PPD",
+    "contentAreaCode": "CODE",
+    "difficulty": "easy",
+    "type": "hotspot",
+    "diagramId": "egress-plan",
+    "correctRegion": { "shape": "rect", "x": 8, "y": 44, "w": 4, "h": 8, "label": "west exit discharge" },
+    "prompt": "On this egress plan, click on the exit discharge door at the west end of the corridor.",
+    "explanation": "An exit discharge is the point where a means of egress terminates at a public way or open space outside the building. Identifying exit discharge points on a plan is the first step in verifying travel distance, exit separation, and number-of-exits requirements are satisfied.",
+    "tags": ["egress plan", "exit discharge"],
+    "reference": "IBC Ch. 10 - Exit discharge"
+  },
+  {
+    "id": "PPD-CODE-006",
+    "division": "PPD",
+    "contentAreaCode": "CODE",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "egress-plan",
+    "correctRegion": { "shape": "rect", "x": 76, "y": 54, "w": 8, "h": 26, "label": "dead-end corridor" },
+    "prompt": "Click on the dead-end corridor segment in this egress plan, the portion of corridor that does not lead to an exit.",
+    "explanation": "A dead-end corridor is a corridor segment from which occupants have only one direction of travel to reach an exit access path; if it exceeds the code-permitted maximum length, it must be redesigned by adding a second path or shortening the dead-end segment. This diagram illustrates a classic dead-end condition extending past a point where occupants could otherwise double back to an exit.",
+    "tags": ["dead-end corridor", "egress plan"],
+    "reference": "IBC Ch. 10 - Dead-end corridor limits"
+  },
+  {
+    "id": "PPD-CODE-007",
+    "division": "PPD",
+    "contentAreaCode": "CODE",
+    "difficulty": "hard",
+    "type": "hotspot",
+    "diagramId": "site-plan",
+    "correctRegion": { "shape": "rect", "x": 82, "y": 5, "w": 8, "h": 90, "label": "fire lane" },
+    "prompt": "On this site plan, click on the dedicated fire apparatus access lane that allows emergency vehicles to reach the building.",
+    "explanation": "Fire apparatus access roads (fire lanes) must be provided so that fire department vehicles can approach within a code-specified distance of the building, with minimum width and turning radius requirements maintained at all times. These lanes are typically marked, kept clear of obstructions and parking, and reviewed by the fire marshal during plan review.",
+    "tags": ["fire lane", "fire apparatus access", "site plan"],
+    "reference": "IFC Ch. 5 - Fire apparatus access roads"
+  },
+  {
+    "id": "PPD-CODE-008",
+    "division": "PPD",
+    "contentAreaCode": "CODE",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A multistory office building's exit stairs discharge directly to the exterior at the ground floor. What life-safety principle does this design satisfy?",
+    "options": [
+      "Exit discharge providing a continuous, unobstructed path to a public way without re-entering the building",
+      "Minimizing the architect's construction cost for the stair enclosure",
+      "Reducing the number of required exits in the building",
+      "Allowing occupants to re-enter the building through the same stair after evacuating"
+    ],
+    "correctIndex": 0,
+    "explanation": "Exit discharge must lead occupants directly to a public way or a safe open area without requiring them to pass back through the building, ensuring the continuity and safety of the egress path all the way to the exterior. This is unrelated to construction cost and does not change the required number of exits, which is governed by occupant load and other factors.",
+    "tags": ["exit discharge", "egress", "stairs"],
+    "reference": "IBC Ch. 10 - Exit discharge requirements"
+  },
+  {
+    "id": "PPD-CODE-009",
+    "division": "PPD",
+    "contentAreaCode": "CODE",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which fire-resistance-rated assembly is primarily intended to prevent the spread of fire and smoke between adjacent tenant spaces in a multi-tenant building?",
+    "options": [
+      "A fire-resistance-rated demising wall extending from the floor slab to the structure above",
+      "A non-rated gypsum board partition stopping at the suspended ceiling line",
+      "A glass storefront partition with no fire rating",
+      "An open-plan layout with no partition between tenants"
+    ],
+    "correctIndex": 0,
+    "explanation": "A rated demising wall that extends full height from the floor slab to the structural deck above (passing through or sealed at the ceiling plenum) is necessary to maintain fire compartmentation between tenants; a partition that stops at the ceiling line leaves a gap in the plenum that allows fire and smoke to bypass the wall. Non-rated or open partitions provide no fire separation at all.",
+    "tags": ["fire separation", "demising wall", "compartmentation"],
+    "reference": "IBC Ch. 7 - Fire-resistance-rated construction"
+  },
+  {
+    "id": "PPD-CODE-010",
+    "division": "PPD",
+    "contentAreaCode": "CODE",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "A project team is evaluating whether an existing unsprinklered office building can be renovated to increase its allowable travel distance to exits. Which factors influence the maximum permitted exit access travel distance for the space? (Select 2)",
+    "options": [
+      "The building's occupancy classification",
+      "Whether the building is equipped with an automatic sprinkler system",
+      "The color of the corridor wall finish",
+      "The brand of exit signage installed",
+      "The architect's preferred ceiling height"
+    ],
+    "correctIndexes": [0, 1],
+    "selectCount": 2,
+    "explanation": "Maximum exit access travel distance varies by occupancy classification and is typically increased when the building is fully sprinklered, since automatic suppression reduces fire risk and improves available evacuation time. Finish colors, signage brand, and ceiling height preferences have no bearing on this code-regulated distance.",
+    "tags": ["travel distance", "sprinklers", "egress"],
+    "reference": "IBC Ch. 10 - Exit access travel distance"
+  },
+  {
+    "id": "PPD-DSN-001",
+    "division": "PPD",
+    "contentAreaCode": "DSN",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Under accessibility standards, what is the maximum running slope generally permitted for an accessible route ramp (excluding curb ramps)?",
+    "options": [
+      "1:12",
+      "1:8",
+      "1:6",
+      "1:4"
+    ],
+    "correctIndex": 0,
+    "explanation": "Accessible ramps on an accessible route are generally limited to a maximum running slope of 1:12 (one unit of rise for every twelve units of run), which keeps the grade manageable for wheelchair users. Steeper slopes such as 1:8 or 1:6 are only permitted in limited, code-specified circumstances such as short existing-condition ramps, not as the general standard.",
+    "tags": ["accessible ramp", "slope", "ada"],
+    "reference": "ADA Standards 4.05 / 4.08 - Ramp slope"
+  },
+  {
+    "id": "PPD-DSN-002",
+    "division": "PPD",
+    "contentAreaCode": "DSN",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "An accessible ramp must rise 24 inches in elevation from a parking area to a building entrance. Using the maximum permitted running slope of 1:12, what is the minimum required horizontal run, in feet?",
+    "correctValue": 24,
+    "tolerance": 1,
+    "unit": "ft",
+    "explanation": "At a 1:12 slope, every inch of rise requires 12 inches of horizontal run: 24 inches rise x 12 = 288 inches of run, which converts to 288 / 12 = 24 feet. This calculation is fundamental to laying out ramps that meet accessibility requirements at a given site grade change.",
+    "tags": ["accessible ramp", "slope calculation"],
+    "reference": "ADA Standards 4.08 - Ramp run calculation"
+  },
+  {
+    "id": "PPD-DSN-003",
+    "division": "PPD",
+    "contentAreaCode": "DSN",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "accessible-restroom",
+    "correctRegion": { "shape": "circle", "cx": 40, "cy": 50, "r": 18, "label": "clear floor turning space" },
+    "prompt": "In this accessible restroom layout, click on the clear floor space that provides the turning space needed for a wheelchair user to maneuver within the room.",
+    "explanation": "Accessible restrooms must provide a clear floor turning space, typically a circular area or T-shaped space sized to allow a wheelchair user to make a full turn, free of obstructions like swinging doors or fixtures. This clear space is one of the core accessible design requirements checked early in restroom layout.",
+    "tags": ["turning space", "accessible restroom", "clear floor space"],
+    "reference": "ADA Standards 4.2.3 - Turning space"
+  },
+  {
+    "id": "PPD-DSN-004",
+    "division": "PPD",
+    "contentAreaCode": "DSN",
+    "difficulty": "easy",
+    "type": "hotspot",
+    "diagramId": "accessible-restroom",
+    "correctRegion": { "shape": "rect", "x": 12, "y": 45, "w": 20, "h": 14, "label": "lavatory clearance" },
+    "prompt": "Click on the clear floor space in front of the lavatory in this accessible restroom layout.",
+    "explanation": "An accessible lavatory requires a clear floor space in front of it to allow a forward or parallel approach by a wheelchair user, with specific minimum dimensions and the option for the space to overlap with other required clear floor spaces in the room. Without this clearance, a wheelchair user cannot get close enough to use the fixture.",
+    "tags": ["lavatory", "clear floor space", "accessible restroom"],
+    "reference": "ADA Standards 4.19 - Lavatory clearances"
+  },
+  {
+    "id": "PPD-DSN-005",
+    "division": "PPD",
+    "contentAreaCode": "DSN",
+    "difficulty": "hard",
+    "type": "hotspot",
+    "diagramId": "site-plan",
+    "correctRegion": { "shape": "rect", "x": 47, "y": 5, "w": 6, "h": 30, "label": "accessible route" },
+    "prompt": "On this site plan, click on the accessible route that connects the public way to the building's main entrance.",
+    "explanation": "An accessible route must connect site arrival points, such as accessible parking and the public sidewalk, to the building's accessible entrance, with a continuous unobstructed path meeting maximum slope, cross-slope, and surface requirements. This route is one of the first things reviewed when evaluating a site plan for accessibility compliance.",
+    "tags": ["accessible route", "site plan", "ada"],
+    "reference": "ADA Standards 4.3 - Accessible route"
+  },
+  {
+    "id": "PPD-DSN-006",
+    "division": "PPD",
+    "contentAreaCode": "DSN",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A building entrance is being designed with a vestibule between two sets of doors. What is the primary design purpose of a vestibule in this context?",
+    "options": [
+      "Reduce energy loss and improve comfort by limiting direct airflow between exterior and interior conditions",
+      "Reduce the overall accessible route distance to the building",
+      "Eliminate the need for an accessible entry door",
+      "Increase the building's allowable occupant load"
+    ],
+    "correctIndex": 0,
+    "explanation": "A vestibule with two sets of doors acts as an airlock that reduces infiltration of outside air and tempers the transition between exterior and interior conditions, improving energy performance and occupant comfort. It does not change accessible route distance requirements, entry door accessibility requirements, or occupant load calculations.",
+    "tags": ["vestibule", "entrance design", "energy"],
+    "reference": "Entry vestibule design intent"
+  },
+  {
+    "id": "PPD-DSN-007",
+    "division": "PPD",
+    "contentAreaCode": "DSN",
+    "difficulty": "easy",
+    "type": "multi",
+    "prompt": "Which of the following are required components of an accessible parking space and its access aisle? (Select 2)",
+    "options": [
+      "An adjacent access aisle that connects to an accessible route",
+      "Signage identifying the space as reserved for accessible parking",
+      "A minimum width of 20 feet for the parking space itself",
+      "Direct vehicular access from the access aisle into the building",
+      "A roof canopy over every accessible space"
+    ],
+    "correctIndexes": [0, 1],
+    "selectCount": 2,
+    "explanation": "Accessible parking spaces require an adjacent access aisle connecting to an accessible route, and must be identified with appropriate signage. Standard accessible space widths are narrower than 20 feet, vehicles do not drive directly into buildings, and a roof canopy is not a code requirement for accessible spaces.",
+    "tags": ["accessible parking", "access aisle", "signage"],
+    "reference": "ADA Standards 4.6 - Parking and passenger loading zones"
+  },
+  {
+    "id": "PPD-DSN-008",
+    "division": "PPD",
+    "contentAreaCode": "DSN",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "A design team is laying out a public building's main accessible entrance. Which of the following design features support accessibility at this entrance? (Select 3)",
+    "options": [
+      "Level, firm, and stable landing on both sides of the door",
+      "Door hardware operable with a closed fist and minimal grip strength",
+      "A single step at the threshold to keep water from entering the building",
+      "Adequate maneuvering clearance on the pull side and push side of the door",
+      "A revolving door as the only means of entry",
+      "Door opening force within accessible limits"
+    ],
+    "correctIndexes": [0, 1, 3],
+    "selectCount": 3,
+    "explanation": "Accessible entrances require level landings, lever-style or similar easy-to-operate hardware, and adequate maneuvering clearance on both sides of the door, along with limits on door opening force (also a valid factor, though only three were selected here as the core set). A step at the threshold creates a barrier for wheelchair users, and a revolving door cannot serve as the sole accessible means of entry.",
+    "tags": ["accessible entrance", "door hardware", "clearances"],
+    "reference": "ADA Standards 4.13 - Doors"
+  },
+  {
+    "id": "PPD-DSN-009",
+    "division": "PPD",
+    "contentAreaCode": "DSN",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A renovation project adds a new accessible entrance ramp to a historic building facade where existing window and door proportions establish a strong horizontal datum line. Which design approach best balances accessibility and preservation of the historic character?",
+    "options": [
+      "Integrate the ramp's guardrails and approach within the existing facade's proportions and materials palette, minimizing visual disruption",
+      "Install a ramp with bright, contrasting modern materials directly across the primary facade regardless of proportion",
+      "Refuse to provide an accessible entrance because the building is historic",
+      "Locate the ramp so that it obscures the building's primary entrance from view"
+    ],
+    "correctIndex": 0,
+    "explanation": "Best practice for accessible upgrades to historic buildings is to provide compliant access while respecting the building's character-defining features, often by designing the ramp's materials, scale, and detailing to be sympathetic to the existing facade. Historic status does not exempt a building from providing accessible access in most cases, and a design that obscures the entrance or clashes with the facade fails to balance both goals.",
+    "tags": ["historic preservation", "accessibility", "entrance design"],
+    "reference": "Accessible design in historic preservation contexts"
+  },
+  {
+    "id": "PPD-DSN-010",
+    "division": "PPD",
+    "contentAreaCode": "DSN",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "In planning a building's interior layout, what is the main design benefit of placing public-facing functions such as a reception area near the main entrance?",
+    "options": [
+      "It reduces wayfinding confusion and travel distance for visitors while supporting security control of building access",
+      "It eliminates the need for any interior signage in the building",
+      "It removes the requirement for an accessible route to the rest of the building",
+      "It increases the building's required occupant load factor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Placing reception and similar public-facing functions near the entrance reduces visitor wayfinding confusion and travel distance while allowing staff to monitor and control access to the rest of the building. This planning decision does not eliminate the need for signage elsewhere, does not affect accessible route requirements for the remainder of the building, and has no bearing on occupant load factors.",
+    "tags": ["space planning", "wayfinding", "building design"],
+    "reference": "Building planning - entry sequence and wayfinding"
+  }
+]

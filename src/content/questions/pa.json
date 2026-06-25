@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "PA-ESE-001",
+    "division": "PA",
+    "contentAreaCode": "ESE",
+    "difficulty": "easy",
+    "type": "hotspot",
+    "diagramId": "site-plan",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 5,
+      "y": 80,
+      "w": 90,
+      "h": 10,
+      "label": "Utility easement"
+    },
+    "prompt": "On the site plan diagram, click the utility easement that runs along the rear of the site and may restrict where structures and deep foundations can be located.",
+    "explanation": "Utility easements grant utility providers rights to access and maintain infrastructure, and they typically prohibit permanent structures within their boundaries. Identifying easements early in site analysis prevents conflicts between the building footprint and legally protected utility corridors.",
+    "tags": [
+      "easement",
+      "site-constraints"
+    ],
+    "reference": "Site easement analysis concept"
+  },
+  {
+    "id": "PA-ESE-002",
+    "division": "PA",
+    "contentAreaCode": "ESE",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "Which of the following are typically included in a thorough environmental site assessment during the programming phase? (Select 3)",
+    "options": [
+      "Soil contamination history and prior land uses",
+      "Floodplain designation and flood zone mapping",
+      "The client's preferred interior finish palette",
+      "Solar access and shading from adjacent structures",
+      "The structural engineer's preferred steel fabricator",
+      "Noise levels from nearby transportation corridors"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      5
+    ],
+    "selectCount": 3,
+    "explanation": "Environmental site assessments evaluate physical and contextual conditions such as soil contamination history, floodplain status, and ambient noise because these affect feasibility, design constraints, and regulatory compliance. Interior finishes and fabricator preferences are not environmental site conditions.",
+    "tags": [
+      "environmental-assessment",
+      "site-analysis"
+    ],
+    "reference": "Phase I environmental site assessment concept"
+  },
+  {
+    "id": "PA-ESE-003",
+    "division": "PA",
+    "contentAreaCode": "ESE",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "An architect is evaluating a brownfield site for adaptive reuse into a maker space and community center. Which of the following should inform the feasibility and programming analysis? (Select 3)",
+    "options": [
+      "Results of a Phase II environmental site assessment if contamination is suspected",
+      "Whether remediation costs can be offset by available redevelopment incentives or grants",
+      "The personal architectural style preferences of the project architect",
+      "The contractor's preferred subcontractor for demolition work",
+      "The specific brand of carpet tile to be specified in finish schedules",
+      "Local job training or workforce development needs that the program could support"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      5
+    ],
+    "selectCount": 3,
+    "explanation": "Brownfield feasibility analysis should weigh environmental testing results, available remediation incentives, and community workforce development needs as part of socio-economic and environmental due diligence. Architect style preferences, subcontractor selection, and finish brand selection are downstream or unrelated decisions, not feasibility factors.",
+    "tags": [
+      "brownfield",
+      "adaptive-reuse",
+      "feasibility"
+    ]
+  },
+  {
+    "id": "PA-ESE-004",
+    "division": "PA",
+    "contentAreaCode": "ESE",
+    "difficulty": "hard",
+    "type": "quant",
+    "prompt": "A proposed development site is 3.2 acres. Local zoning limits impervious surface coverage to 65% of the site to manage stormwater runoff. What is the maximum allowable impervious surface area, in SF? (Use 43,560 SF per acre.)",
+    "correctValue": 90605,
+    "tolerance": 1500,
+    "unit": "SF",
+    "explanation": "First convert acreage to square feet: 3.2 acres x 43,560 SF/acre = 139,392 SF. Then apply the impervious coverage limit: 139,392 SF x 0.65 = 90,605 SF. Impervious surface limits control how much of a site can be covered by buildings, pavement, and other non-permeable materials to manage stormwater runoff and reduce flooding risk.",
+    "tags": [
+      "impervious-surface",
+      "stormwater",
+      "calculation"
+    ],
+    "reference": "Stormwater management concept"
+  },
+  {
+    "id": "PA-ESE-005",
+    "division": "PA",
+    "contentAreaCode": "ESE",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "During the site selection phase for a new community health clinic, the architect is asked to evaluate the surrounding socio-economic context. Which factor is MOST relevant to programming the clinic's services?",
+    "options": [
+      "The age distribution and income levels of the population within the clinic's service radius",
+      "The architectural style of buildings directly adjacent to the site",
+      "The brand of HVAC equipment used in nearby buildings",
+      "The paint colors used on neighboring storefronts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Socio-economic site analysis examines demographic data such as age distribution, income, and population density because these directly influence the type and scale of services a facility should provide. Aesthetic details of neighboring buildings are not part of socio-economic analysis.",
+    "tags": [
+      "demographics",
+      "site-selection"
+    ],
+    "reference": "Site analysis methodology - demographic context"
+  },
+  {
+    "id": "PA-ESE-006",
+    "division": "PA",
+    "contentAreaCode": "ESE",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "A proposed mixed-use development is located near a designated wetland buffer. What is the architect's most appropriate first step regarding the wetland?",
+    "options": [
+      "Consult the local environmental or conservation agency to determine buffer setback requirements before finalizing the site plan",
+      "Assume a standard 25-foot buffer applies everywhere and proceed with design",
+      "Fill the wetland area to maximize buildable area",
+      "Ignore the wetland since it is not on the building lot itself"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wetland buffer requirements vary by jurisdiction and are regulated by environmental agencies; the architect must verify applicable setbacks early so the site plan respects required protections. Assuming a generic distance or ignoring an adjacent regulated feature can create legal and environmental risk.",
+    "tags": [
+      "wetlands",
+      "environmental-regulation"
+    ],
+    "reference": "Environmental site constraints analysis"
+  },
+  {
+    "id": "PA-ESE-007",
+    "division": "PA",
+    "contentAreaCode": "ESE",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A site analysis reveals that the prevailing summer winds approach from the southwest and the site is in a hot-humid climate zone. How should this information MOST appropriately influence early programming and siting decisions?",
+    "options": [
+      "Orient outdoor gathering spaces and operable openings to capture southwest breezes for passive cooling",
+      "Locate the mechanical penthouse on the southwest corner to block the wind entirely",
+      "Disregard wind data since it only matters during construction document phase",
+      "Orient the building's longest facade to face northeast regardless of solar exposure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Understanding prevailing wind direction during programming allows the architect to position outdoor spaces and natural ventilation strategies to take advantage of passive cooling opportunities, which is especially valuable in hot-humid climates. This is a foundational site-responsive design decision made early, not deferred to construction documents.",
+    "tags": [
+      "climate",
+      "wind",
+      "passive-design"
+    ],
+    "reference": "Climate analysis concept"
+  },
+  {
+    "id": "PA-ESE-008",
+    "division": "PA",
+    "contentAreaCode": "ESE",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "An architect is comparing two potential sites for a new elementary school. Site A has excellent solar orientation but is two miles from public transit; Site B has average solar orientation but is adjacent to a bus line serving the surrounding neighborhoods. From a socio-economic site analysis standpoint, what is the MOST significant consideration?",
+    "options": [
+      "Transit accessibility may be critical for equitable access by families without reliable personal vehicles",
+      "Solar orientation always outweighs transit access in school site selection",
+      "Neither factor matters because school buses will serve all students",
+      "The site with better solar orientation should automatically be selected"
+    ],
+    "correctIndex": 0,
+    "explanation": "Socio-economic site analysis considers how site location affects equitable access to the facility, including proximity to public transit for families who may lack reliable transportation. While solar orientation affects building performance, it does not outweigh broader access and equity concerns in site selection.",
+    "tags": [
+      "transit-access",
+      "equity",
+      "site-selection"
+    ],
+    "reference": "Socio-economic site evaluation concept"
+  },
+  {
+    "id": "PA-ESE-009",
+    "division": "PA",
+    "contentAreaCode": "ESE",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "Which tool would an architect MOST likely use early in programming to visually overlay multiple environmental and socio-economic data layers (such as flood zones, transit lines, and median income) for a proposed site?",
+    "options": [
+      "A geographic information system (GIS) mapping platform",
+      "A building information model (BIM) clash detection report",
+      "A critical path method (CPM) schedule",
+      "A specification master format index"
+    ],
+    "correctIndex": 0,
+    "explanation": "GIS platforms allow architects and planners to layer multiple spatial datasets, such as floodplain boundaries, transit infrastructure, and demographic data, to visualize relationships during early site analysis. BIM clash detection, CPM schedules, and specification indexes serve different purposes later in the project.",
+    "tags": [
+      "gis",
+      "site-analysis-tools"
+    ],
+    "reference": "GIS in site analysis"
+  },
+  {
+    "id": "PA-ESE-010",
+    "division": "PA",
+    "contentAreaCode": "ESE",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A proposed affordable housing project is sited in a neighborhood undergoing rapid gentrification. During programming, community engagement reveals concerns about displacement of long-term residents. What is the architect's most professionally appropriate response?",
+    "options": [
+      "Incorporate community input into the program, such as unit mix and shared amenity spaces that support existing residents' needs",
+      "Disregard the community input since the client, not the community, is paying for the project",
+      "Recommend the client abandon the project entirely",
+      "Proceed with a standard market-rate unit program regardless of community feedback"
+    ],
+    "correctIndex": 0,
+    "explanation": "Socio-economic site analysis includes engaging the affected community and incorporating their needs into the program where feasible, balancing client goals with community impact. This reflects the architect's role in responsibly translating site and social context into program decisions, not simply following the path of least resistance.",
+    "tags": [
+      "community-engagement",
+      "socio-economic"
+    ],
+    "reference": "Community-based programming concept"
+  },
+  {
+    "id": "PA-CRA-001",
+    "division": "PA",
+    "contentAreaCode": "CRA",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "egress-plan",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 76,
+      "y": 54,
+      "w": 8,
+      "h": 26,
+      "label": "Dead-end corridor"
+    },
+    "prompt": "On the egress plan diagram, click the dead-end corridor segment that does not lead directly to an exit, which the architect must evaluate against the code's maximum dead-end corridor length limit.",
+    "explanation": "Building codes limit the length of dead-end corridors because occupants traveling into a dead end must reverse direction to reach an exit, increasing risk during an emergency. Identifying dead-end conditions during code analysis ensures the corridor layout is revised or justified against code exceptions before design proceeds.",
+    "tags": [
+      "dead-end-corridor",
+      "egress"
+    ],
+    "reference": "IBC Ch. 10 - Egress, dead-end corridor limits"
+  },
+  {
+    "id": "PA-CRA-002",
+    "division": "PA",
+    "contentAreaCode": "CRA",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "egress-plan",
+    "correctRegion": {
+      "shape": "circle",
+      "cx": 50,
+      "cy": 54,
+      "r": 8,
+      "label": "Door swing obstruction"
+    },
+    "prompt": "On the egress plan diagram, click the door swing that encroaches into the required clear width of the egress corridor.",
+    "explanation": "Door swings that project into a corridor can reduce the corridor's clear width below the code-required minimum, restricting egress capacity during an emergency. Identifying such encroachments during code analysis prompts the design team to revise door swing direction or corridor width before the layout is finalized.",
+    "tags": [
+      "door-swing",
+      "corridor-clear-width"
+    ],
+    "reference": "IBC Ch. 10 - Egress, corridor clear width"
+  },
+  {
+    "id": "PA-CRA-003",
+    "division": "PA",
+    "contentAreaCode": "CRA",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "An architect is performing a code analysis for a proposed 4-story office building with a basement parking garage. Which of the following code research tasks should be completed during the programming and analysis phase before schematic design begins? (Select 3)",
+    "options": [
+      "Determine the building's construction type and allowable height/area under the applicable code",
+      "Confirm occupancy classification(s) for office, parking, and any mixed uses",
+      "Finalize the exact paint specification for corridor walls",
+      "Identify whether a fire-resistance-rated separation is required between the parking garage and other occupancies",
+      "Select the manufacturer for the elevator cab interior finishes",
+      "Choose the landscape contractor for the building's entry plaza"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      3
+    ],
+    "selectCount": 3,
+    "explanation": "Early code analysis establishes foundational constraints, construction type, allowable area, occupancy classifications, and separation requirements between uses, because these decisions shape the building's basic form and systems. Finish selections, fixture manufacturer, and landscape contractor choices occur much later and are not part of early code research.",
+    "tags": [
+      "code-analysis",
+      "construction-type",
+      "occupancy"
+    ]
+  },
+  {
+    "id": "PA-CRA-004",
+    "division": "PA",
+    "contentAreaCode": "CRA",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "An architect is researching accessibility requirements for a renovation of an existing two-story retail building without an elevator. Which factors should be researched to determine whether an elevator or vertical accessibility upgrade is required? (Select 2)",
+    "options": [
+      "Whether the scope of work qualifies as an 'alteration' that triggers accessibility upgrade requirements under the adopted accessibility code",
+      "Whether any technically infeasible exceptions may apply given the existing structural configuration",
+      "The brand of light fixtures specified for the retail floor",
+      "The retailer's preferred merchandising layout",
+      "The color of the building's exterior signage"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "selectCount": 2,
+    "explanation": "Accessibility code analysis for alterations to existing buildings hinges on whether the scope of work triggers upgrade requirements and whether a technically infeasible exception applies due to physical or structural constraints. Finish brands, merchandising layout, and signage color are unrelated to this code determination.",
+    "tags": [
+      "accessibility",
+      "existing-building",
+      "alteration"
+    ],
+    "reference": "Accessibility alterations concept"
+  },
+  {
+    "id": "PA-CRA-005",
+    "division": "PA",
+    "contentAreaCode": "CRA",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A commercial lot is 20,000 SF. The zoning ordinance allows a maximum FAR of 1.8. What is the maximum allowable gross building floor area, in SF?",
+    "correctValue": 36000,
+    "tolerance": 500,
+    "unit": "SF",
+    "explanation": "Maximum allowable floor area equals FAR multiplied by lot area: 1.8 x 20,000 SF = 36,000 SF. This calculation is a fundamental early feasibility check used to confirm a desired building program can fit within zoning limits.",
+    "tags": [
+      "far",
+      "zoning",
+      "calculation"
+    ],
+    "reference": "FAR zoning concept"
+  },
+  {
+    "id": "PA-CRA-006",
+    "division": "PA",
+    "contentAreaCode": "CRA",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which code document MOST directly governs minimum egress widths, occupant load calculations, and fire-resistance ratings for a proposed mixed-use building?",
+    "options": [
+      "The International Building Code (IBC)",
+      "The Uniform Plumbing Code (UPC)",
+      "The Americans with Disabilities Act Standards for Accessible Design alone",
+      "The local zoning ordinance"
+    ],
+    "correctIndex": 0,
+    "explanation": "The IBC establishes core life-safety provisions including egress width, occupant load, and fire-resistance ratings for building construction. Plumbing codes address fixture counts and piping, the ADA addresses accessibility (a related but separate body of requirements), and zoning addresses land use rather than building life safety.",
+    "tags": [
+      "ibc",
+      "egress",
+      "code-research"
+    ],
+    "reference": "IBC general provisions concept"
+  },
+  {
+    "id": "PA-CRA-007",
+    "division": "PA",
+    "contentAreaCode": "CRA",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "During code analysis for a new restaurant tenant space, the architect determines the space will be classified as occupancy group A-2. What does this classification MOST directly affect?",
+    "options": [
+      "Occupant load factors, required exits, and allowable construction type based on assembly use",
+      "The required number of accessible parking spaces only",
+      "The zoning setback requirements for the property",
+      "The architect's professional liability insurance premium"
+    ],
+    "correctIndex": 0,
+    "explanation": "Occupancy classification under the IBC determines occupant load factors, egress requirements, and allowable building height/area based on construction type, because assembly uses like restaurants carry different life-safety risks than other occupancies. Parking counts, zoning setbacks, and insurance premiums are governed by separate considerations.",
+    "tags": [
+      "occupancy-classification",
+      "a-2"
+    ],
+    "reference": "IBC occupancy classification concept"
+  },
+  {
+    "id": "PA-CRA-008",
+    "division": "PA",
+    "contentAreaCode": "CRA",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A zoning ordinance specifies a maximum floor area ratio (FAR) of 2.5 for a commercial parcel. What does this ratio describe?",
+    "options": [
+      "The maximum gross building floor area allowed as a multiple of the site's lot area",
+      "The maximum percentage of the lot that may be covered by the building footprint",
+      "The minimum number of parking spaces required per square foot of building",
+      "The maximum building height allowed in stories"
+    ],
+    "correctIndex": 0,
+    "explanation": "Floor area ratio (FAR) is the ratio of total gross building floor area to the area of the lot it sits on, used by zoning codes to control development density. It is distinct from lot coverage (footprint percentage), parking ratios, and height limits, which are separate zoning metrics.",
+    "tags": [
+      "far",
+      "zoning"
+    ],
+    "reference": "FAR zoning concept"
+  },
+  {
+    "id": "PA-CRA-009",
+    "division": "PA",
+    "contentAreaCode": "CRA",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "An architect is reviewing a site plan and notices the proposed building encroaches into a required front yard setback. What should the architect do?",
+    "options": [
+      "Revise the site plan to comply with the setback or pursue a variance from the zoning board if compliance is not feasible",
+      "Proceed with construction documents without addressing the encroachment",
+      "Assume the setback does not apply because the building is small",
+      "Build the encroaching portion and address it only if cited by the building department"
+    ],
+    "correctIndex": 0,
+    "explanation": "When a design encroaches into a required setback, the architect must either revise the design to comply or pursue a formal variance through the appropriate zoning process before proceeding. Ignoring the issue, assuming exemption without basis, or waiting for code enforcement to flag it would expose the client to legal and schedule risk.",
+    "tags": [
+      "setback",
+      "variance"
+    ],
+    "reference": "Zoning setback compliance concept"
+  },
+  {
+    "id": "PA-CRA-010",
+    "division": "PA",
+    "contentAreaCode": "CRA",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "An existing 3-story building of Type IIB construction is being renovated to add a 4th story. According to typical building code logic for additions, what must the architect verify FIRST regarding construction type?",
+    "options": [
+      "Whether the existing construction type's allowable height and number of stories permit the additional story under the current code",
+      "Whether the building's exterior paint color requires a permit",
+      "Whether the elevator cab size matches the original 1960s specification",
+      "Whether the parking lot striping conforms to current standards"
+    ],
+    "correctIndex": 0,
+    "explanation": "When adding stories to an existing building, the code analysis must confirm that the existing or upgraded construction type supports the new allowable height and number of stories; if not, fire-resistance upgrades or construction type reclassification may be required. Cosmetic items like paint color or unrelated site elements do not drive this structural/life-safety threshold question.",
+    "tags": [
+      "construction-type",
+      "vertical-addition",
+      "existing-building"
+    ],
+    "reference": "Allowable height and area concept"
+  },
+  {
+    "id": "PA-SCH-001",
+    "division": "PA",
+    "contentAreaCode": "SCH",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "site-plan",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 30,
+      "y": 35,
+      "w": 40,
+      "h": 30,
+      "label": "Building footprint"
+    },
+    "prompt": "On the site plan diagram, click the building footprint to indicate the area the architect must verify sits outside floodplain, easement, and setback constraints identified during site analysis.",
+    "explanation": "The building footprint represents the proposed structure's ground-level extent and must be checked against all overlapping site constraints, such as setbacks, easements, and hazard zones, identified during site and hazard analysis. Confirming the footprint avoids these constrained areas is a core site-feasibility step.",
+    "tags": [
+      "building-footprint",
+      "site-constraints"
+    ],
+    "reference": "Site constraints overlay concept"
+  },
+  {
+    "id": "PA-SCH-002",
+    "division": "PA",
+    "contentAreaCode": "SCH",
+    "difficulty": "easy",
+    "type": "hotspot",
+    "diagramId": "site-plan",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 82,
+      "y": 5,
+      "w": 8,
+      "h": 90,
+      "label": "Fire apparatus access lane"
+    },
+    "prompt": "On the site plan diagram, click the dedicated fire apparatus access lane that must be evaluated for required width and clearance during site analysis.",
+    "explanation": "Fire apparatus access lanes must meet minimum width, turning radius, and clearance requirements so emergency vehicles can reach the building, and verifying this dedicated lane during site analysis is essential before the site layout is finalized. This is a life-safety site planning requirement distinct from general vehicular circulation.",
+    "tags": [
+      "fire-lane",
+      "site-access"
+    ],
+    "reference": "Fire apparatus access concept"
+  },
+  {
+    "id": "PA-SCH-003",
+    "division": "PA",
+    "contentAreaCode": "SCH",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "Which of the following are typical components of a geotechnical report that the architect should review during programming for a new building on an undeveloped site? (Select 3)",
+    "options": [
+      "Soil bearing capacity and recommended foundation type",
+      "Depth to groundwater table",
+      "The client's furniture, fixtures, and equipment budget",
+      "The building's proposed window manufacturer",
+      "The building's proposed exterior color scheme",
+      "Presence of expansive, collapsible, or organic soils"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      5
+    ],
+    "selectCount": 3,
+    "explanation": "Geotechnical reports typically address soil bearing capacity, groundwater depth, and the presence of problematic soils such as expansive, collapsible, or organic material, because these directly affect foundation design and structural feasibility. Furniture budgets, window manufacturer, and color scheme are unrelated to subsurface conditions.",
+    "tags": [
+      "geotechnical-report",
+      "soils"
+    ]
+  },
+  {
+    "id": "PA-SCH-004",
+    "division": "PA",
+    "contentAreaCode": "SCH",
+    "difficulty": "hard",
+    "type": "quant",
+    "prompt": "A site survey shows the high point of a parking lot at elevation 102.0 ft and the low point (at a catch basin) at elevation 98.5 ft, over a horizontal distance of 175 feet. What is the average slope of the parking lot, expressed as a percentage?",
+    "correctValue": 2,
+    "tolerance": 0.3,
+    "unit": "%",
+    "explanation": "Slope percentage equals the rise divided by the run, multiplied by 100: (102.0 - 98.5) / 175 = 3.5 / 175 = 0.02, or 2%. Confirming that parking surface slopes fall within typical accessible and drainage ranges (commonly under 5%) is a standard early site feasibility check.",
+    "tags": [
+      "slope",
+      "grading",
+      "calculation"
+    ],
+    "reference": "Site grading and slope concept"
+  },
+  {
+    "id": "PA-SCH-005",
+    "division": "PA",
+    "contentAreaCode": "SCH",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "A geotechnical report indicates the site has expansive clay soils. What is the MOST direct implication for early programming and design?",
+    "options": [
+      "Foundation design and slab detailing will likely require special measures to accommodate soil movement",
+      "The building's interior finishes must be fire-rated",
+      "The site cannot be developed under any circumstances",
+      "The roof structure must be reinforced for snow loads"
+    ],
+    "correctIndex": 0,
+    "explanation": "Expansive clay soils swell and shrink with moisture changes, which can damage conventional foundations and slabs if not properly designed for; geotechnical findings like this directly inform foundation strategy early in the project. Interior finish fire-rating and roof snow loads are unrelated to soil expansiveness.",
+    "tags": [
+      "geotechnical",
+      "expansive-soil",
+      "foundations"
+    ],
+    "reference": "Geotechnical site analysis concept"
+  },
+  {
+    "id": "PA-SCH-006",
+    "division": "PA",
+    "contentAreaCode": "SCH",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "What is the primary purpose of a topographic survey during the site analysis phase?",
+    "options": [
+      "To document existing grades, drainage patterns, and significant site features for use in siting and grading decisions",
+      "To determine the building's required occupant load",
+      "To establish the interior room finish schedule",
+      "To calculate the project's construction budget in detail"
+    ],
+    "correctIndex": 0,
+    "explanation": "A topographic survey records existing ground elevations, slopes, drainage flow, and notable features such as trees or rock outcrops, which inform siting, grading, and stormwater strategy decisions early in design. Occupant load, finish schedules, and detailed budgets are determined through other processes.",
+    "tags": [
+      "topographic-survey",
+      "grading"
+    ],
+    "reference": "Topographic survey concept"
+  },
+  {
+    "id": "PA-SCH-007",
+    "division": "PA",
+    "contentAreaCode": "SCH",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A site survey reveals the property is located within a FEMA-designated 100-year floodplain. Which programming response is MOST appropriate?",
+    "options": [
+      "Investigate elevation requirements for the lowest floor and consider flood-resistant construction strategies",
+      "Ignore the floodplain designation since flooding is a rare event",
+      "Automatically reject the site without further analysis",
+      "Move all mechanical equipment to the basement level for protection"
+    ],
+    "correctIndex": 0,
+    "explanation": "When a site lies within a mapped floodplain, the architect must research required elevation of the lowest floor, flood-resistant materials and construction methods, and any local floodplain ordinance provisions. Placing mechanical equipment in a basement would increase flood vulnerability rather than reduce it.",
+    "tags": [
+      "floodplain",
+      "fema"
+    ],
+    "reference": "Floodplain construction concept"
+  },
+  {
+    "id": "PA-SCH-008",
+    "division": "PA",
+    "contentAreaCode": "SCH",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A historic structure report identifies that a building's original wood windows are deteriorated but character-defining. From a preservation standpoint, what is generally the MOST appropriate first approach?",
+    "options": [
+      "Investigate repair of the existing windows before considering full replacement",
+      "Replace all windows immediately with vinyl units to reduce cost",
+      "Remove the windows and infill the openings with solid wall",
+      "Disregard the historic structure report entirely"
+    ],
+    "correctIndex": 0,
+    "explanation": "Preservation best practice generally favors repair of character-defining historic features over replacement when feasible, preserving original materials and craftsmanship to the greatest extent possible. Replacing with incompatible materials or removing openings entirely would compromise historic integrity.",
+    "tags": [
+      "historic-preservation",
+      "windows",
+      "repair-vs-replace"
+    ],
+    "reference": "Secretary of the Interior's Standards concept"
+  },
+  {
+    "id": "PA-SCH-009",
+    "division": "PA",
+    "contentAreaCode": "SCH",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A site investigation reveals high radon potential in the regional geologic survey data. What should the architect recommend during programming?",
+    "options": [
+      "Incorporate radon-resistant construction techniques and consider sub-slab testing as part of the building design",
+      "Ignore the finding since radon is not a health concern",
+      "Require the client to relocate the project to a different state",
+      "Specify radon mitigation only if the client requests it, without disclosing the regional data"
+    ],
+    "correctIndex": 0,
+    "explanation": "Where regional data indicates elevated radon potential, the architect should recommend radon-resistant construction techniques and testing, since radon is a known health hazard that can be mitigated through foundation design and ventilation strategies identified early in programming. Withholding known risk information from the client would be inappropriate.",
+    "tags": [
+      "radon",
+      "site-hazards"
+    ],
+    "reference": "Radon mitigation concept"
+  },
+  {
+    "id": "PA-SCH-010",
+    "division": "PA",
+    "contentAreaCode": "SCH",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "During due diligence for an adaptive reuse project, the architect discovers the existing building contains material suspected to be asbestos-containing. What is the MOST appropriate next step?",
+    "options": [
+      "Recommend the client retain a licensed environmental consultant to test and, if necessary, develop an abatement plan before construction activities proceed",
+      "Have the design team remove the suspected material themselves to save time",
+      "Disregard the finding since asbestos was banned everywhere decades ago",
+      "Proceed directly to construction documents and let the contractor handle it later without informing the client"
+    ],
+    "correctIndex": 0,
+    "explanation": "Suspected hazardous materials such as asbestos require testing and assessment by qualified environmental professionals, and any required abatement must be planned and disclosed before construction proceeds. Architects are not licensed to perform abatement themselves, and failing to disclose findings to the client would be both unethical and a life-safety risk.",
+    "tags": [
+      "hazardous-materials",
+      "asbestos",
+      "due-diligence"
+    ],
+    "reference": "Existing building hazardous materials concept"
+  },
+  {
+    "id": "PA-PRO-001",
+    "division": "PA",
+    "contentAreaCode": "PRO",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "accessible-restroom",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 12,
+      "y": 45,
+      "w": 20,
+      "h": 14,
+      "label": "Lavatory clearance"
+    },
+    "prompt": "On the accessible restroom diagram, click the clear floor space in front of the lavatory that the program must reserve to satisfy accessible approach clearance requirements.",
+    "explanation": "Programming for accessible restrooms must reserve adequate clear floor space in front of fixtures such as the lavatory so a person using a mobility device can approach and use the fixture. Failing to account for this clearance during programming can force costly layout changes later in design.",
+    "tags": [
+      "accessible-restroom",
+      "clear-floor-space"
+    ],
+    "reference": "Accessible fixture clearance concept"
+  },
+  {
+    "id": "PA-PRO-002",
+    "division": "PA",
+    "contentAreaCode": "PRO",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "An architect is developing the program for a new public library with a mix of quiet reading areas, a children's program room, and a community meeting hall. Which adjacency considerations should be incorporated into the program? (Select 3)",
+    "options": [
+      "Separating noisy children's program activities from quiet reading zones",
+      "Locating the community meeting hall near a separate entrance to allow after-hours use without opening the entire library",
+      "Specifying the carpet manufacturer for the reading room",
+      "Providing acoustic separation between high-activity and low-activity zones",
+      "Selecting the structural bay spacing for the entire building",
+      "Determining the exact paint color of the children's room walls"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      3
+    ],
+    "selectCount": 3,
+    "explanation": "Programming-stage adjacency considerations focus on functional relationships and acoustic/use separation, such as keeping noisy and quiet zones apart and allowing independent after-hours access to a meeting hall. Carpet brand, structural bay spacing, and paint color are downstream design or engineering decisions, not programming adjacency concerns.",
+    "tags": [
+      "adjacency",
+      "library-programming"
+    ]
+  },
+  {
+    "id": "PA-PRO-003",
+    "division": "PA",
+    "contentAreaCode": "PRO",
+    "difficulty": "easy",
+    "type": "multi",
+    "prompt": "Which of the following are common methods architects use to gather programming information from client stakeholders? (Select 2)",
+    "options": [
+      "Structured interviews with department representatives",
+      "Observation of existing operations and workflows",
+      "Selecting the final exterior cladding material",
+      "Finalizing the structural engineer's contract",
+      "Issuing the certificate of substantial completion"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "selectCount": 2,
+    "explanation": "Programming information is typically gathered through structured stakeholder interviews and direct observation of existing workflows and operations, both of which reveal functional needs that inform the space program. Material selection, consultant contracts, and project closeout activities occur in later phases and are unrelated to programming data-gathering methods.",
+    "tags": [
+      "programming-methods",
+      "stakeholder-interviews"
+    ]
+  },
+  {
+    "id": "PA-PRO-004",
+    "division": "PA",
+    "contentAreaCode": "PRO",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A programming exercise totals 42,000 SF of net assignable (usable) program area for a new office building. Using a grossing factor (efficiency) of 80% net-to-gross, what is the estimated gross building area required, in SF?",
+    "correctValue": 52500,
+    "tolerance": 1000,
+    "unit": "SF",
+    "explanation": "Gross area is calculated by dividing net assignable area by the efficiency factor: 42,000 SF / 0.80 = 52,500 SF. This grossing-up accounts for circulation, walls, mechanical spaces, and other non-assignable areas not captured in the net program.",
+    "tags": [
+      "grossing-factor",
+      "net-to-gross",
+      "calculation"
+    ],
+    "reference": "Net-to-gross area concept"
+  },
+  {
+    "id": "PA-PRO-005",
+    "division": "PA",
+    "contentAreaCode": "PRO",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "What is the primary purpose of an architectural program (space program) developed during the PA phase?",
+    "options": [
+      "To define the spaces needed, their sizes, relationships, and functional requirements before design begins",
+      "To establish the final construction cost of the project",
+      "To select finish materials for each room",
+      "To determine the structural system for the building"
+    ],
+    "correctIndex": 0,
+    "explanation": "The architectural program documents the client's space needs, room sizes, adjacency relationships, and functional requirements, forming the foundation that schematic design responds to. It precedes and informs, but does not itself establish, the construction cost, finish selections, or structural system.",
+    "tags": [
+      "programming",
+      "space-program"
+    ],
+    "reference": "Programming methodology concept"
+  },
+  {
+    "id": "PA-PRO-006",
+    "division": "PA",
+    "contentAreaCode": "PRO",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "During programming for a corporate office, the client states a strong preference for an open-plan workspace to encourage collaboration. What is the architect's MOST appropriate response during programming?",
+    "options": [
+      "Document the preference and explore how it affects acoustic privacy, density, and circulation needs in the program",
+      "Immediately reject the idea without discussion",
+      "Proceed to construction documents without further analysis of the open-plan implications",
+      "Tell the client that open-plan offices are illegal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Programming is the stage to capture client preferences and explore their functional implications, such as acoustic privacy trade-offs, space density, and circulation patterns associated with open-plan layouts, before moving into design. Architects should engage with stated preferences thoughtfully rather than dismiss or skip analysis of them.",
+    "tags": [
+      "open-plan",
+      "workplace-programming"
+    ],
+    "reference": "Programming methodology concept"
+  },
+  {
+    "id": "PA-PRO-007",
+    "division": "PA",
+    "contentAreaCode": "PRO",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which of the following BEST describes the difference between a 'net' area and a 'gross' area in a space program?",
+    "options": [
+      "Net area is the usable floor area within a room; gross area includes net area plus circulation, walls, and building service spaces",
+      "Net area and gross area are interchangeable terms with no real difference",
+      "Net area includes the building's exterior walls; gross area excludes them",
+      "Gross area only refers to the site area, not the building"
+    ],
+    "correctIndex": 0,
+    "explanation": "Net (or net assignable) area refers to usable floor area within individual rooms, while gross area adds circulation, structure, walls, and mechanical/service spaces to arrive at the total building area. Understanding this distinction is essential for accurately translating a room-by-room program into an overall building size.",
+    "tags": [
+      "net-area",
+      "gross-area"
+    ],
+    "reference": "Net vs. gross area concept"
+  },
+  {
+    "id": "PA-PRO-008",
+    "division": "PA",
+    "contentAreaCode": "PRO",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "During programming interviews, a clinic's nursing staff state that they need direct visual supervision of patient rooms from the nurses' station. What programming tool would BEST capture and communicate this requirement to the design team?",
+    "options": [
+      "An adjacency/relationship diagram noting sightline requirements between the nurses' station and patient rooms",
+      "A detailed finish schedule for the nurses' station",
+      "A structural framing plan",
+      "A construction cost estimate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adjacency and relationship diagrams are programming tools used to capture functional requirements such as required sightlines, proximity, and circulation relationships between spaces, directly informing the spatial layout. Finish schedules, structural plans, and cost estimates are developed later and do not capture functional adjacency needs.",
+    "tags": [
+      "adjacency-diagram",
+      "programming-tools"
+    ],
+    "reference": "Programming documentation concept"
+  },
+  {
+    "id": "PA-PRO-009",
+    "division": "PA",
+    "contentAreaCode": "PRO",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A client requests a 'flexible' classroom space that can be reconfigured for lectures, small group work, and testing. Which programming approach BEST addresses this requirement?",
+    "options": [
+      "Specify movable partitions, modular furniture, and adequate floor area and power/data distribution to support multiple configurations",
+      "Specify a fixed lecture-hall layout with bolted-down seating",
+      "Omit any mention of flexibility from the program and let the contractor decide later",
+      "Specify the smallest possible room size to save cost"
+    ],
+    "correctIndex": 0,
+    "explanation": "Flexible space programming anticipates multiple use configurations by specifying movable elements, adequate area, and supporting infrastructure like power and data so the room can adapt to lectures, group work, or testing. A fixed lecture-hall layout or undersized room would defeat the stated flexibility requirement.",
+    "tags": [
+      "flexible-space",
+      "classroom-programming"
+    ],
+    "reference": "Programming for flexibility concept"
+  },
+  {
+    "id": "PA-PRO-010",
+    "division": "PA",
+    "contentAreaCode": "PRO",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A hospital programming team is debating whether to use a 'single-loaded' or 'double-loaded' corridor configuration for a new inpatient unit. From a programming and operational standpoint, what is the PRIMARY trade-off between these two configurations?",
+    "options": [
+      "Double-loaded corridors are generally more area-efficient but may complicate natural light and direct supervision compared to single-loaded layouts",
+      "There is no meaningful difference between the two configurations",
+      "Single-loaded corridors always cost less to construct than double-loaded corridors",
+      "Double-loaded corridors are required by code in all inpatient units"
+    ],
+    "correctIndex": 0,
+    "explanation": "Double-loaded corridors place rooms on both sides, improving area efficiency relative to building footprint, but can make daylighting and staff sightlines into rooms more difficult than single-loaded layouts where rooms are only on one side. This is a programming-stage trade-off, not a fixed code mandate or simple cost rule.",
+    "tags": [
+      "corridor-configuration",
+      "healthcare-programming"
+    ],
+    "reference": "Programming layout efficiency concept"
+  },
+  {
+    "id": "PA-BUD-001",
+    "division": "PA",
+    "contentAreaCode": "BUD",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "site-plan",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 47,
+      "y": 5,
+      "w": 6,
+      "h": 30,
+      "label": "Accessible route"
+    },
+    "prompt": "On the site plan diagram, click the accessible route connecting the public way to the building entrance, which the project budget must account for when pricing site work.",
+    "explanation": "An accessible route from the public way to the building entrance is a required site improvement, and its length, paving material, and grading needs (such as ramps or additional retaining) directly affect site work costs in the project budget. Overlooking this route during early budgeting can lead to underestimating site development costs.",
+    "tags": [
+      "accessible-route",
+      "site-budget"
+    ],
+    "reference": "Site development cost concept"
+  },
+  {
+    "id": "PA-BUD-002",
+    "division": "PA",
+    "contentAreaCode": "BUD",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "Which of the following are typically included in a project's total development budget beyond pure construction cost? (Select 3)",
+    "options": [
+      "Land acquisition cost",
+      "Architectural and engineering design fees",
+      "The architect's personal vehicle lease",
+      "Permitting and regulatory fees",
+      "The client's unrelated personal investment portfolio",
+      "Contingency allowance for unforeseen costs"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      3
+    ],
+    "selectCount": 3,
+    "explanation": "A total development budget typically includes land acquisition, design fees, permitting costs, financing costs, and contingency, in addition to hard construction costs, because these soft costs are necessary to deliver the project. Personal expenses unrelated to the project are not part of a development budget.",
+    "tags": [
+      "development-budget",
+      "soft-costs"
+    ]
+  },
+  {
+    "id": "PA-BUD-003",
+    "division": "PA",
+    "contentAreaCode": "BUD",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "A developer is evaluating the feasibility of a mixed-use project combining ground-floor retail with residential units above. Which factors should inform the financial feasibility analysis? (Select 2)",
+    "options": [
+      "Projected rental income and achievable rents for both retail and residential components",
+      "Estimated total development cost, including land, hard costs, and soft costs",
+      "The architect's preferred typeface for project signage",
+      "The exact stain color for the lobby millwork",
+      "The receptionist's preferred desk chair model"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "selectCount": 2,
+    "explanation": "Financial feasibility analysis for an income-producing mixed-use project centers on projected income from each use and total development cost, since the relationship between these two figures determines whether the project can support financing and deliver an acceptable return. Signage typeface, millwork stain color, and furniture preferences are unrelated to financial feasibility.",
+    "tags": [
+      "mixed-use",
+      "financial-feasibility"
+    ]
+  },
+  {
+    "id": "PA-BUD-004",
+    "division": "PA",
+    "contentAreaCode": "BUD",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A proposed retail building is programmed at 18,000 SF gross. A comparable cost benchmark of $215 per SF is used for a preliminary estimate. What is the estimated construction cost, in dollars (rounded to the nearest thousand)?",
+    "correctValue": 3870000,
+    "tolerance": 50000,
+    "unit": "$",
+    "explanation": "Preliminary cost estimates during programming often use a cost-per-square-foot benchmark multiplied by the programmed gross area: 18,000 SF x $215/SF = $3,870,000. While approximate, this method allows early feasibility testing before detailed design quantities are available.",
+    "tags": [
+      "cost-per-sf",
+      "preliminary-estimate",
+      "calculation"
+    ],
+    "reference": "Square-foot cost estimating concept"
+  },
+  {
+    "id": "PA-BUD-005",
+    "division": "PA",
+    "contentAreaCode": "BUD",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "What is the primary purpose of a rough order of magnitude (ROM) cost estimate developed during programming?",
+    "options": [
+      "To provide an early, approximate cost range to test the feasibility of the program against the client's budget",
+      "To provide a final, guaranteed maximum price for construction",
+      "To replace the contractor's detailed bid at the end of construction documents",
+      "To calculate the architect's fee structure exclusively"
+    ],
+    "correctIndex": 0,
+    "explanation": "A rough order of magnitude estimate gives the client an early, approximate sense of probable project cost so the program and budget can be reconciled before significant design investment occurs. It is not a guaranteed price, a substitute for a contractor's detailed bid, or a fee calculation tool.",
+    "tags": [
+      "rom-estimate",
+      "feasibility"
+    ],
+    "reference": "Conceptual cost estimating concept"
+  },
+  {
+    "id": "PA-BUD-006",
+    "division": "PA",
+    "contentAreaCode": "BUD",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "What is the main difference between 'hard costs' and 'soft costs' in a project budget?",
+    "options": [
+      "Hard costs are direct construction costs; soft costs are non-construction costs such as design fees, permits, and financing",
+      "Hard costs only apply to concrete and steel; soft costs apply to wood framing",
+      "Hard costs are paid by the architect; soft costs are paid by the contractor",
+      "There is no meaningful difference between hard and soft costs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hard costs refer to actual construction costs (labor and materials), while soft costs cover non-construction expenses like design fees, permitting, financing, and legal costs needed to deliver the project. This distinction is fundamental to building an accurate total project budget.",
+    "tags": [
+      "hard-costs",
+      "soft-costs"
+    ],
+    "reference": "Project budgeting concept"
+  },
+  {
+    "id": "PA-BUD-007",
+    "division": "PA",
+    "contentAreaCode": "BUD",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Why is establishing a project contingency important when developing an early project budget?",
+    "options": [
+      "It provides a financial buffer for unforeseen conditions, design development changes, or estimate inaccuracies",
+      "It guarantees the project will never go over budget",
+      "It eliminates the need for any further cost estimating later",
+      "It is only relevant for projects funded by government grants"
+    ],
+    "correctIndex": 0,
+    "explanation": "A contingency allowance provides a buffer against unforeseen conditions, scope refinements, and the inherent uncertainty of early-stage estimates, helping protect the overall budget as the design develops. It does not guarantee against all overruns, nor does it remove the need for ongoing cost estimating throughout design.",
+    "tags": [
+      "contingency",
+      "budgeting"
+    ],
+    "reference": "Project budgeting concept"
+  },
+  {
+    "id": "PA-BUD-008",
+    "division": "PA",
+    "contentAreaCode": "BUD",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A feasibility study for a small commercial building shows that projected total development costs exceed the client's available budget by a significant margin. Which strategy is MOST appropriate for the architect to explore FIRST with the client?",
+    "options": [
+      "Discuss options such as phasing the project, reducing program scope, or adjusting quality/material standards to close the gap",
+      "Proceed with construction documents at the original scope and hope the contractor finds a way to reduce cost later",
+      "Tell the client the project is impossible and should be abandoned immediately",
+      "Increase the program scope to make the project more attractive to lenders"
+    ],
+    "correctIndex": 0,
+    "explanation": "When a feasibility study reveals a budget gap, the architect should help the client explore value-management strategies such as phasing, scope reduction, or adjusted quality standards to align the project with available funds. Proceeding unchanged, abandoning the project outright, or increasing scope would not responsibly address the identified shortfall.",
+    "tags": [
+      "feasibility",
+      "budget-gap",
+      "value-management"
+    ],
+    "reference": "Project feasibility analysis concept"
+  },
+  {
+    "id": "PA-BUD-009",
+    "division": "PA",
+    "contentAreaCode": "BUD",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A nonprofit client is exploring a capital campaign to fund a new community center. From a feasibility standpoint, what should the architect help the client understand EARLY in the process?",
+    "options": [
+      "How the program scope and projected cost align with realistic fundraising capacity and timeline",
+      "The exact final selection of furniture vendors",
+      "The specific paint colors for donor recognition walls",
+      "The structural engineer's preferred software package"
+    ],
+    "correctIndex": 0,
+    "explanation": "Early feasibility work for capital-campaign-funded projects should help the client understand whether the proposed program and cost are realistic given fundraising capacity and timeline, since the project's viability depends on securing sufficient funds. Furniture vendors, paint colors, and software preferences are unrelated to this core feasibility question.",
+    "tags": [
+      "capital-campaign",
+      "feasibility",
+      "nonprofit"
+    ],
+    "reference": "Project feasibility analysis concept"
+  },
+  {
+    "id": "PA-BUD-010",
+    "division": "PA",
+    "contentAreaCode": "BUD",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "A client's overall project budget includes an allowance for furniture, fixtures, and equipment (FF&E) separate from the construction budget. Why is this distinction important for the architect to understand during programming?",
+    "options": [
+      "FF&E costs are typically tracked separately from construction costs and must be coordinated so the total project budget remains accurate",
+      "FF&E costs are always included automatically in the construction contract sum",
+      "FF&E has no impact on the overall project budget",
+      "FF&E is exclusively the general contractor's financial responsibility"
+    ],
+    "correctIndex": 0,
+    "explanation": "FF&E is commonly budgeted and procured separately from the construction contract, so the architect must understand this distinction to ensure the client's total project budget realistically accounts for both construction and furnishing costs. Conflating the two, or assuming the contractor bears this cost, can lead to budget shortfalls.",
+    "tags": [
+      "ffe",
+      "budget-categories"
+    ],
+    "reference": "Project budget categories concept"
+  }
+]

@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "CE-PRE-001",
+    "division": "CE",
+    "contentAreaCode": "PRE",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "During the preconstruction phase, which document establishes the official starting point for calculating the contractor's construction schedule, including substantial completion and any liquidated damages period?",
+    "options": [
+      "Notice to Proceed",
+      "Notice of Award",
+      "Certificate of Substantial Completion",
+      "Schedule of Values"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Notice to Proceed (NTP) is issued by the owner to formally authorize the contractor to begin work and starts the contract time clock. The Notice of Award only signals selection of the contractor, while the Schedule of Values and Certificate of Substantial Completion are used later in the project for payment and closeout purposes.",
+    "tags": [
+      "preconstruction",
+      "scheduling",
+      "contract administration"
+    ],
+    "reference": "Notice to Proceed concept"
+  },
+  {
+    "id": "CE-PRE-002",
+    "division": "CE",
+    "contentAreaCode": "PRE",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "A general contractor schedules a preconstruction conference before mobilizing on site. What is the PRIMARY purpose of this meeting?",
+    "options": [
+      "To review project roles, communication protocols, and procedures before construction begins",
+      "To approve the final design documents for permit submission",
+      "To select subcontractors for each trade package",
+      "To certify that the project has reached substantial completion"
+    ],
+    "correctIndex": 0,
+    "explanation": "The preconstruction conference brings the owner, architect, and contractor together to confirm lines of communication, submittal procedures, schedule expectations, and site logistics before work starts. It is not a design approval or subcontractor selection meeting, and it occurs long before substantial completion.",
+    "tags": [
+      "preconstruction conference",
+      "kickoff meeting"
+    ],
+    "reference": "Preconstruction meeting procedures"
+  },
+  {
+    "id": "CE-PRE-003",
+    "division": "CE",
+    "contentAreaCode": "PRE",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "An architect is reviewing a contractor's proposed construction schedule submitted before mobilization. The schedule shows all interior finish activities occurring in parallel with structural steel erection on the same floor. What should the architect do?",
+    "options": [
+      "Flag the sequencing conflict and request the contractor revise the logic before accepting the schedule",
+      "Approve the schedule since the architect has no authority over construction means and methods",
+      "Reject the entire schedule and require the contractor to resubmit using a different scheduling software",
+      "Withhold the next payment application until the project reaches substantial completion"
+    ],
+    "correctIndex": 0,
+    "explanation": "While the architect does not dictate construction means and methods, reviewing the schedule for obvious logic errors or unsafe/illogical sequencing is a reasonable administrative check before accepting it as the project baseline. Interior finishes cannot reasonably proceed in parallel with structural erection on the same floor, so this is a legitimate sequencing flag, not an overreach into means and methods.",
+    "tags": [
+      "scheduling",
+      "schedule review",
+      "sequencing"
+    ],
+    "reference": "Construction schedule review"
+  },
+  {
+    "id": "CE-PRE-004",
+    "division": "CE",
+    "contentAreaCode": "PRE",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which of the following is typically reviewed and accepted by the architect during preconstruction submittal procedures, before the contractor begins ordering structural steel?",
+    "options": [
+      "The submittal schedule identifying when each submittal will be transmitted for review",
+      "The final as-built record drawings",
+      "The certificate of substantial completion",
+      "The contractor's final application for payment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Early in the project, the contractor typically prepares and submits a submittal schedule so the architect and consultants can plan review turnaround for shop drawings, product data, and samples. As-built drawings, the certificate of substantial completion, and the final payment application all occur near or after project closeout.",
+    "tags": [
+      "submittal schedule",
+      "preconstruction"
+    ],
+    "reference": "Submittal schedule procedures"
+  },
+  {
+    "id": "CE-PRE-005",
+    "division": "CE",
+    "contentAreaCode": "PRE",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "Before construction begins, which of the following are typically confirmed or established during preconstruction activities? (Select 2)",
+    "options": [
+      "Lines of communication and submittal routing among owner, architect, and contractor",
+      "The final retainage release amount at project closeout",
+      "Required insurance certificates and bonding from the contractor",
+      "The contractor's final lien waiver",
+      "The certificate of substantial completion date"
+    ],
+    "correctIndexes": [
+      0,
+      2
+    ],
+    "selectCount": 2,
+    "explanation": "Preconstruction activities establish the administrative framework for the project, including confirming insurance and bonding requirements and setting up communication and submittal protocols. Final retainage release, lien waivers, and the substantial completion date are closeout-phase items that occur much later.",
+    "tags": [
+      "preconstruction",
+      "insurance",
+      "bonding",
+      "communication protocols"
+    ],
+    "reference": "Preconstruction administrative setup"
+  },
+  {
+    "id": "CE-PRE-006",
+    "division": "CE",
+    "contentAreaCode": "PRE",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "An architect is reviewing a contractor's proposed list of subcontractors before construction begins. Which of the following are legitimate reasons for the architect or owner to object to a proposed subcontractor? (Select 2)",
+    "options": [
+      "The subcontractor has a documented history of safety violations on similar projects",
+      "The subcontractor's bid price is lower than competitors on the same trade",
+      "The subcontractor lacks the licensing required for the scope of work in the project's jurisdiction",
+      "The subcontractor is headquartered in a different state than the project",
+      "The subcontractor previously worked with a different general contractor"
+    ],
+    "correctIndexes": [
+      0,
+      2
+    ],
+    "selectCount": 2,
+    "explanation": "Owners and architects may reasonably object to a subcontractor for substantive performance concerns such as a poor safety record or missing required licensure, since these directly affect project risk and code compliance. A subcontractor's pricing, location, or prior working relationships are not valid grounds for rejection under typical contract administration practice.",
+    "tags": [
+      "subcontractor approval",
+      "preconstruction",
+      "licensing"
+    ],
+    "reference": "Subcontractor qualification review"
+  },
+  {
+    "id": "CE-PRE-007",
+    "division": "CE",
+    "contentAreaCode": "PRE",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A contract has a stipulated sum of $2,400,000 with a substantial completion date set 300 calendar days after the Notice to Proceed. Liquidated damages are set at $1,200 per calendar day. If the contractor reaches substantial completion 14 days late with no approved time extensions, how much in liquidated damages (in dollars) may the owner assess?",
+    "correctValue": 16800,
+    "tolerance": 1,
+    "unit": "$",
+    "explanation": "Liquidated damages are calculated as the daily rate multiplied by the number of days the contractor is late beyond the contract completion date with no excusable delay: 14 days x $1,200/day = $16,800. This calculation assumes no approved time extensions reduce the number of chargeable late days.",
+    "tags": [
+      "liquidated damages",
+      "schedule",
+      "calculation"
+    ],
+    "reference": "Liquidated damages calculation"
+  },
+  {
+    "id": "CE-PRE-008",
+    "division": "CE",
+    "contentAreaCode": "PRE",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Prior to issuing a Notice to Proceed, an owner typically requires the contractor to furnish which of the following as a condition of starting work?",
+    "options": [
+      "Certificates of insurance and required bonds",
+      "The final punch list",
+      "As-built record drawings",
+      "The certificate of substantial completion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Owners typically require evidence of insurance coverage and any required performance/payment bonds before authorizing the contractor to mobilize, protecting the owner's interests from day one. Punch lists, as-builts, and substantial completion certificates are all generated near the end of construction, not before it starts.",
+    "tags": [
+      "insurance",
+      "bonds",
+      "notice to proceed"
+    ],
+    "reference": "Conditions precedent to Notice to Proceed"
+  },
+  {
+    "id": "CE-PRE-009",
+    "division": "CE",
+    "contentAreaCode": "PRE",
+    "difficulty": "easy",
+    "type": "multi",
+    "prompt": "Which of the following are commonly distributed and reviewed at a preconstruction conference? (Select 2)",
+    "options": [
+      "Contact list and communication protocol for the project team",
+      "The final lien waiver and consent of surety",
+      "Site logistics plan including staging, parking, and deliveries",
+      "The certificate of substantial completion",
+      "The architect's final invoice for design services"
+    ],
+    "correctIndexes": [
+      0,
+      2
+    ],
+    "selectCount": 2,
+    "explanation": "A preconstruction conference focuses on establishing how the team will communicate and how the site will be organized during construction, including a contact list and a site logistics plan. Lien waivers, the substantial completion certificate, and final design invoices are all later-stage administrative items unrelated to project kickoff.",
+    "tags": [
+      "preconstruction conference",
+      "site logistics"
+    ],
+    "reference": "Preconstruction meeting agenda items"
+  },
+  {
+    "id": "CE-PRE-010",
+    "division": "CE",
+    "contentAreaCode": "PRE",
+    "difficulty": "hard",
+    "type": "hotspot",
+    "diagramId": "egress-plan",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 76,
+      "y": 54,
+      "w": 8,
+      "h": 26,
+      "label": "dead-end-corridor"
+    },
+    "prompt": "While reviewing the contractor's proposed phasing plan during preconstruction, you note that a temporary partition is planned that would leave a corridor segment without access to either exit during an interim construction phase. Click the corridor segment on this egress plan that illustrates the type of dead-end condition the temporary phasing must avoid creating.",
+    "explanation": "A dead-end corridor is a corridor segment that does not lead to an exit, and code limits how far occupants may travel into such a condition before reaching a way out. Reviewing temporary construction phasing for inadvertently created dead-end conditions is an important preconstruction life-safety check, especially when work is phased while portions of a building remain occupied.",
+    "tags": [
+      "dead-end corridor",
+      "egress",
+      "phasing"
+    ],
+    "reference": "Dead-end corridor limitations during phased construction"
+  },
+  {
+    "id": "CE-PRE-011",
+    "division": "CE",
+    "contentAreaCode": "PRE",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "egress-plan",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 30,
+      "y": 42,
+      "w": 20,
+      "h": 12,
+      "label": "corridor-clear-width"
+    },
+    "prompt": "During preconstruction coordination, the contractor proposes routing temporary mechanical piping along the ceiling of the main corridor and asks which corridor segment must maintain its required clear width throughout construction. Click the corridor segment used to measure the required clear width of the egress path.",
+    "explanation": "Maintaining the required clear width of an egress corridor is a continuous code obligation, and any temporary construction work, including overhead piping supports or material staging, must not encroach into that dimension. Identifying this corridor segment during preconstruction coordination helps the team plan temporary work that avoids violating minimum egress width.",
+    "tags": [
+      "egress width",
+      "corridor",
+      "preconstruction coordination"
+    ],
+    "reference": "Minimum corridor clear width requirements"
+  },
+  {
+    "id": "CE-PRE-012",
+    "division": "CE",
+    "contentAreaCode": "PRE",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "During preconstruction, a contractor identifies that the geotechnical report included in the bid documents reflects boring locations that differ significantly from the actual area of new foundation work, raising the possibility of differing site conditions once excavation begins. What is the most appropriate preconstruction step?",
+    "options": [
+      "Discuss the concern with the owner and geotechnical engineer before excavation to evaluate whether additional borings or a contingency approach is warranted",
+      "Proceed with excavation and address conditions only if and when a problem is discovered, with no advance planning",
+      "Cancel the project until a completely new geotechnical report is issued",
+      "Have the contractor's superintendent personally reinterpret the existing geotechnical data without engineer involvement"
+    ],
+    "correctIndex": 0,
+    "explanation": "When a potential differing site conditions issue is identified before construction starts, the prudent approach is to proactively involve the owner and geotechnical engineer to assess risk and consider additional investigation or contingency planning, rather than waiting until a problem surfaces during excavation. Canceling the project outright or having unqualified personnel reinterpret geotechnical data are not reasonable preconstruction responses.",
+    "tags": [
+      "geotechnical",
+      "differing site conditions",
+      "preconstruction risk"
+    ],
+    "reference": "Differing site conditions risk planning"
+  },
+  {
+    "id": "CE-OBS-001",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "During a routine site visit, the architect observes that the contractor's work does not appear to conform to the contract documents. What is the architect's typical role in this situation?",
+    "options": [
+      "Document the observation and communicate it to the contractor and owner, without directing how to fix it",
+      "Stop all work on the site immediately using their own authority",
+      "Issue a formal change order to correct the defective work",
+      "Terminate the contractor's contract for default"
+    ],
+    "correctIndex": 0,
+    "explanation": "The architect's site visits are for general observation of progress and conformance with the contract documents, not exhaustive inspection or direction of construction means and methods. The architect documents and communicates concerns, while remedies such as stop-work orders, change orders, or termination involve the owner and are typically governed by specific contractual authority.",
+    "tags": [
+      "site visits",
+      "field observation",
+      "nonconforming work"
+    ],
+    "reference": "Architect's site visit role"
+  },
+  {
+    "id": "CE-OBS-002",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "What is the primary purpose of a field report prepared by the architect after a site visit?",
+    "options": [
+      "To create a written record of observed conditions, progress, and any discrepancies for the project file",
+      "To formally approve the contractor's payment application",
+      "To grant the contractor a time extension",
+      "To certify substantial completion of the project"
+    ],
+    "correctIndex": 0,
+    "explanation": "Field reports document what the architect observed during a site visit, creating a contemporaneous record that supports later decisions and protects all parties if disputes arise. They are not themselves payment certifications, time extensions, or completion certificates, though they may inform those later determinations.",
+    "tags": [
+      "field reports",
+      "documentation"
+    ],
+    "reference": "Field report documentation purpose"
+  },
+  {
+    "id": "CE-OBS-003",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "An architect performing construction observation on a multi-story building notices that rebar dowels at a slab edge are spaced wider than shown in the structural drawings. What is the most appropriate immediate action?",
+    "options": [
+      "Note the discrepancy and notify the structural engineer of record for evaluation before concrete placement",
+      "Direct the contractor's ironworkers to immediately re-space the dowels personally",
+      "Issue a stop-work order for the entire project",
+      "Wait until the next scheduled site visit to mention the issue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Structural discrepancies should be flagged promptly to the structural engineer of record, who has the technical authority to evaluate whether the as-built condition is acceptable or requires correction, especially before an irreversible step like concrete placement. The architect should not personally direct trade work or unilaterally halt the entire project over a localized condition.",
+    "tags": [
+      "structural observation",
+      "field coordination",
+      "rebar"
+    ],
+    "reference": "Structural observation coordination"
+  },
+  {
+    "id": "CE-OBS-004",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "During construction observation of a steel-framed building, the architect notices that the contractor has begun installing exterior sheathing over several structural connections before the special inspector has verified the bolted connections, contrary to the approved inspection program. What is the most appropriate response?",
+    "options": [
+      "Notify the contractor and owner that work must stop on the affected connections until special inspection can verify them, even if it means removing the sheathing",
+      "Allow the work to continue since the architect's visits are not for exhaustive inspection",
+      "Approve the next payment application without comment since this is a special inspector issue, not an architectural one",
+      "Wait for the project closeout phase to address the inspection gap"
+    ],
+    "correctIndex": 0,
+    "explanation": "Special inspections required by the building code for critical structural connections must occur before the connections are concealed; covering them prematurely creates a code compliance and life-safety risk that cannot simply be deferred to closeout. The architect should promptly flag the issue so the required inspection can occur, even if that means uncovering completed work.",
+    "tags": [
+      "special inspection",
+      "code compliance",
+      "structural connections"
+    ],
+    "reference": "Special inspection sequencing"
+  },
+  {
+    "id": "CE-OBS-005",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "Which of the following are appropriate purposes of the architect's construction-phase site visits under typical owner-architect agreements? (Select 3)",
+    "options": [
+      "Observing the general progress and quality of the work",
+      "Becoming generally familiar with the work to help determine conformance with the contract documents",
+      "Providing exhaustive, continuous on-site inspection of every detail of construction",
+      "Guarding the owner against defects and deficiencies in the work in a general sense",
+      "Directing the contractor's specific means, methods, and sequences of construction",
+      "Assuming responsibility for the contractor's safety programs"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      3
+    ],
+    "selectCount": 3,
+    "explanation": "Construction-phase site visits are intended to keep the architect generally familiar with progress and quality so the architect can help guard the owner against defects, without becoming a substitute for the contractor's own quality control. The architect does not provide exhaustive continuous inspection, direct means and methods, or take over responsibility for the contractor's safety program.",
+    "tags": [
+      "site visits",
+      "scope of services",
+      "field observation"
+    ],
+    "reference": "Architect's construction-phase services scope"
+  },
+  {
+    "id": "CE-OBS-006",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "An architect is reviewing daily construction reports submitted by the contractor. Which of the following items would typically be expected in a thorough daily report? (Select 2)",
+    "options": [
+      "Weather conditions and crew counts on site",
+      "The owner's final retainage release amount",
+      "Description of work performed and any delays encountered that day",
+      "The contractor's profit margin on the project",
+      "The architect's professional liability insurance limits"
+    ],
+    "correctIndexes": [
+      0,
+      2
+    ],
+    "selectCount": 2,
+    "explanation": "Daily reports typically capture conditions that affect progress and documentation needs, such as weather, staffing, work completed, and delays encountered. Retainage release amounts, contractor profit margins, and architect insurance limits are unrelated to a daily field log.",
+    "tags": [
+      "daily reports",
+      "documentation"
+    ],
+    "reference": "Daily report content"
+  },
+  {
+    "id": "CE-OBS-007",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "easy",
+    "type": "quant",
+    "prompt": "An architect conducts a site visit once every 2 weeks throughout an 18-week construction phase, as defined in the owner-architect agreement. How many site visits will the architect make over the full construction phase?",
+    "correctValue": 9,
+    "tolerance": 0,
+    "unit": "visits",
+    "explanation": "Dividing the total construction duration by the visit interval gives the number of visits: 18 weeks / 2 weeks per visit = 9 site visits. This type of calculation helps the architect budget time and fee against the agreed site-visit frequency in the owner-architect agreement.",
+    "tags": [
+      "site visit frequency",
+      "scheduling"
+    ],
+    "reference": "Site visit frequency planning"
+  },
+  {
+    "id": "CE-OBS-008",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "wall-section",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 56,
+      "y": 66,
+      "w": 16,
+      "h": 4,
+      "label": "flashing"
+    },
+    "prompt": "During a site visit at a masonry veneer wall under construction, you observe water staining below the brick veneer at a level just above grade and suspect the moisture is not being directed back out of the wall assembly. Click the wall section element most directly responsible for redirecting that moisture out through the weep holes.",
+    "explanation": "Through-wall flashing collects moisture that gets behind the veneer and directs it back out of the wall assembly through the weep holes above. If the flashing is missing, damaged, or improperly lapped, water will pool within the cavity instead of draining, leading to staining and potential deterioration.",
+    "tags": [
+      "flashing",
+      "moisture management",
+      "masonry veneer"
+    ],
+    "reference": "Wall flashing and drainage plane"
+  },
+  {
+    "id": "CE-OBS-009",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "wall-section",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 64,
+      "y": 67,
+      "w": 8,
+      "h": 3,
+      "label": "weep-holes"
+    },
+    "prompt": "While observing a brick veneer wall near the base of the building, you notice efflorescence and no visible drainage path for incidental moisture collected by the flashing. Click the wall section element that should be present at this location to allow collected moisture to escape the cavity.",
+    "explanation": "Weep holes are spaced openings at the base of the veneer, typically above the flashing, that allow water collected within the drainage cavity to exit the wall rather than accumulate. Missing or blocked weep holes are a common field observation finding tied to efflorescence and trapped moisture.",
+    "tags": [
+      "weep holes",
+      "drainage cavity",
+      "field observation"
+    ],
+    "reference": "Weep hole function in veneer walls"
+  },
+  {
+    "id": "CE-OBS-010",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "hard",
+    "type": "hotspot",
+    "diagramId": "wall-section",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 59,
+      "y": 20,
+      "w": 2,
+      "h": 48,
+      "label": "wrb"
+    },
+    "prompt": "During a site visit before the brick veneer is installed, you observe that the air and water barrier layer behind the future airspace has visible tears and unsealed laps at several stud locations. Click the wall section layer that needs to be repaired before the veneer installation proceeds.",
+    "explanation": "The water-resistive barrier (WRB) is the continuous membrane that prevents incidental moisture from reaching the sheathing and stud cavity; tears or unsealed laps compromise the building's moisture management strategy and should be repaired before the assembly is concealed by veneer. Catching this defect during observation, before it is covered, avoids a costly tear-out later.",
+    "tags": [
+      "water-resistive barrier",
+      "moisture management",
+      "field observation"
+    ],
+    "reference": "WRB continuity and lap sealing"
+  },
+  {
+    "id": "CE-OBS-011",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "hard",
+    "type": "hotspot",
+    "diagramId": "structural-framing",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 17,
+      "y": 48,
+      "w": 5,
+      "h": 34,
+      "label": "shear-wall"
+    },
+    "prompt": "During a site visit at a wood-framed building under construction, you observe that the contractor has cut an oversized opening for new ductwork through a wall along grid line A between gridlines 2 and 3 without an approved framing revision. Click the structural element you are concerned about, given its role in resisting lateral loads.",
+    "explanation": "Shear walls provide critical lateral (wind and seismic) resistance, and unauthorized openings can significantly reduce their capacity if not properly detailed with blocking, hold-downs, or additional sheathing nailing. Any modification to a shear wall should be reviewed by the structural engineer of record before the opening is cut or, if already cut, before it is concealed.",
+    "tags": [
+      "shear wall",
+      "lateral system",
+      "unauthorized modification"
+    ],
+    "reference": "Shear wall continuity and field modifications"
+  },
+  {
+    "id": "CE-OBS-012",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A contractor's superintendent asks the architect to confirm, in writing, that a specific means and method of shoring an excavation is acceptable before proceeding. How should the architect typically respond?",
+    "options": [
+      "Decline, explaining that means, methods, and site safety are the contractor's responsibility under the contract",
+      "Provide written approval of the shoring method to keep the project moving",
+      "Design the shoring system on the contractor's behalf at no additional fee",
+      "Refer the question to the owner's lender for a decision"
+    ],
+    "correctIndex": 0,
+    "explanation": "Construction means, methods, techniques, sequences, and procedures, along with job site safety, are generally the contractor's responsibility, not the architect's. The architect should decline to approve or direct such matters to avoid assuming liability and responsibility that belongs to the contractor.",
+    "tags": [
+      "means and methods",
+      "site safety",
+      "contractor responsibility"
+    ],
+    "reference": "Allocation of means and methods responsibility"
+  },
+  {
+    "id": "CE-OBS-013",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "diagramId": "structural-framing",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 20,
+      "y": 20,
+      "w": 30,
+      "h": 30,
+      "label": "joist-bay"
+    },
+    "prompt": "During a site visit, you observe sagging in a section of decking and want to verify the joist spacing and span match the structural drawings before sheathing is installed. Click the framing bay spanning between grid lines A-B and 1-2 where this verification should occur.",
+    "explanation": "The joist bay between adjacent grid lines is where joist spacing, size, and span should be field-verified against the structural drawings, particularly before it is concealed by decking or sheathing. Catching deflection or spacing issues at this stage prevents costly rework later in the project.",
+    "tags": [
+      "joist bay",
+      "field verification",
+      "structural framing"
+    ],
+    "reference": "Joist spacing and span verification"
+  },
+  {
+    "id": "CE-OBS-014",
+    "division": "CE",
+    "contentAreaCode": "OBS",
+    "difficulty": "easy",
+    "type": "hotspot",
+    "diagramId": "structural-framing",
+    "correctRegion": {
+      "shape": "circle",
+      "cx": 20,
+      "cy": 20,
+      "r": 5,
+      "label": "corner-column-a1"
+    },
+    "prompt": "While walking the structural frame with the contractor, you are asked to confirm the anchor bolt pattern at the corner column furthest from the building's interior. Click the column at grid intersection A-1.",
+    "explanation": "Corner columns, such as the one at grid intersection A-1, typically carry a smaller tributary area than interior columns but require careful field verification of anchor bolt pattern, base plate orientation, and edge clearances due to their position at the building perimeter. Field-checking corner conditions against the drawings is a routine structural observation task.",
+    "tags": [
+      "corner column",
+      "anchor bolts",
+      "structural observation"
+    ],
+    "reference": "Corner column field verification"
+  },
+  {
+    "id": "CE-ADM-001",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "A contractor submits a Request for Information (RFI) asking the architect to clarify a dimension that appears inconsistent between the floor plan and the wall section. What is the architect's typical responsibility upon receiving this RFI?",
+    "options": [
+      "Review the conflict and issue a written response clarifying the design intent within a reasonable time",
+      "Forward the RFI directly to the building department for resolution",
+      "Ignore the RFI since dimensional conflicts are the contractor's responsibility to resolve",
+      "Automatically issue a change order before responding to the RFI"
+    ],
+    "correctIndex": 0,
+    "explanation": "RFIs are the standard mechanism for the contractor to seek clarification when the contract documents are ambiguous or conflicting, and the architect is expected to respond in writing within a reasonable time to keep the project moving. An RFI response that clarifies design intent does not automatically require a change order unless the clarification changes scope, cost, or time.",
+    "tags": [
+      "RFI",
+      "documentation",
+      "design intent"
+    ],
+    "reference": "RFI response procedure"
+  },
+  {
+    "id": "CE-ADM-002",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "What is the primary purpose of the submittal review process for shop drawings and product data?",
+    "options": [
+      "To allow the architect to check that the contractor's proposed materials and assemblies conform to the design intent of the contract documents",
+      "To shift all design responsibility for the item from the architect to the contractor",
+      "To establish the final contract price for the item being submitted",
+      "To certify that the item has been installed correctly in the field"
+    ],
+    "correctIndex": 0,
+    "explanation": "Submittal review allows the architect to verify that the contractor's proposed products, materials, and fabrication details are consistent with the design intent before they are fabricated or installed. It is a conformance check, not a transfer of design responsibility, a pricing mechanism, or a field installation certification.",
+    "tags": [
+      "submittals",
+      "shop drawings",
+      "design intent"
+    ],
+    "reference": "Submittal review purpose"
+  },
+  {
+    "id": "CE-ADM-003",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A contractor submits a change order proposal that includes additional cost for work the architect believes is already required by the original contract documents. What is the most appropriate architect response?",
+    "options": [
+      "Review the proposal against the contract documents and recommend rejection or revision to the owner if the work is already included in the original scope",
+      "Approve the change order automatically since the contractor requested it",
+      "Forward the change order directly to the building department for review",
+      "Withhold the contractor's next payment application in retaliation"
+    ],
+    "correctIndex": 0,
+    "explanation": "The architect's role in change order review includes confirming whether proposed extra work is actually outside the original scope of the contract documents, and recommending against payment for work that was already required. Automatically approving cost not justified by an actual scope change would expose the owner to unnecessary expense.",
+    "tags": [
+      "change order",
+      "scope review"
+    ],
+    "reference": "Change order scope evaluation"
+  },
+  {
+    "id": "CE-ADM-004",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "During monthly payment application review, the architect notices that the contractor has billed 100% complete for a line item that site observation suggests is only about 80% complete. What should the architect do?",
+    "options": [
+      "Certify only the amount consistent with the observed percentage complete and note the discrepancy",
+      "Certify the full amount requested since the contractor is in the best position to judge its own progress",
+      "Reject the entire payment application outright",
+      "Wait until the next pay period to address the discrepancy"
+    ],
+    "correctIndex": 0,
+    "explanation": "The architect's certification for payment represents a professional judgment, based on observed information, that the work has progressed to the extent indicated; certifying more than what is reasonably substantiated by observation creates risk to the owner and the architect. The appropriate action is to adjust the certified amount to reflect the actual progress and document the discrepancy rather than rejecting the entire application or ignoring the issue.",
+    "tags": [
+      "payment application",
+      "percent complete",
+      "certification"
+    ],
+    "reference": "AIA G702/G703 - Pay Application Review"
+  },
+  {
+    "id": "CE-ADM-005",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "An architect receives a submittal for structural steel connections stamped 'reviewed' by the contractor's quality control manager but containing a deviation from the structural drawings that was not called out in the submittal transmittal. What is the architect's best course of action?",
+    "options": [
+      "Review the submittal carefully regardless of the contractor's internal stamp, identify the deviation, and route it to the structural engineer for evaluation",
+      "Accept the contractor's quality control stamp as sufficient and approve the submittal without further review",
+      "Reject the submittal outright without identifying the specific deviation",
+      "Forward the submittal directly to the owner's lender without architect comment"
+    ],
+    "correctIndex": 0,
+    "explanation": "A contractor's internal quality control stamp does not replace the architect's own submittal review responsibility, particularly for items involving structural design where the engineer of record should evaluate any deviation from the approved design. Submittal review should always be substantive, looking for discrepancies regardless of what stamps or markups the contractor has already applied.",
+    "tags": [
+      "submittal review",
+      "structural steel",
+      "deviation"
+    ],
+    "reference": "Submittal review diligence"
+  },
+  {
+    "id": "CE-ADM-006",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "Which of the following circumstances would typically justify a contractor submitting a change order request for additional cost and/or time? (Select 3)",
+    "options": [
+      "An owner-directed scope addition not included in the original contract documents",
+      "Unforeseen subsurface conditions materially different from those indicated in the contract documents",
+      "A contractor's own estimating error discovered after bid submission",
+      "An owner-caused delay in furnishing required information needed to proceed with the work",
+      "Normal weather delays anticipated for the region and season",
+      "The contractor's voluntary decision to accelerate its own schedule for convenience"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      3
+    ],
+    "selectCount": 3,
+    "explanation": "Legitimate grounds for a change order typically include owner-directed scope changes, differing site conditions not reasonably anticipated, and owner-caused delays such as late information. Estimating errors, normal anticipated weather, and the contractor's own voluntary acceleration are generally the contractor's risk and not valid bases for additional compensation or time.",
+    "tags": [
+      "change orders",
+      "differing site conditions",
+      "owner-caused delay"
+    ],
+    "reference": "Grounds for change order entitlement"
+  },
+  {
+    "id": "CE-ADM-007",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "An architect is evaluating whether a contractor's RFI response requires a formal change order. Which of the following situations would typically require a change order rather than just an RFI response? (Select 2)",
+    "options": [
+      "The clarification changes the contract sum because new materials are required",
+      "The clarification confirms which of two consistent drawing details applies",
+      "The clarification extends the contract time due to a design omission",
+      "The clarification simply restates information already shown in the specifications",
+      "The clarification corrects a typographical error in a room name"
+    ],
+    "correctIndexes": [
+      0,
+      2
+    ],
+    "selectCount": 2,
+    "explanation": "When the answer to an RFI affects cost or time, such as requiring new materials or extending the schedule due to a design omission, a change order is needed to formally modify the contract. If the RFI response simply clarifies existing intent without changing scope, cost, or time, a written RFI response alone is sufficient.",
+    "tags": [
+      "RFI",
+      "change order",
+      "scope change"
+    ],
+    "reference": "RFI versus change order threshold"
+  },
+  {
+    "id": "CE-ADM-008",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "easy",
+    "type": "quant",
+    "prompt": "A contractor's schedule of values lists a line item for drywall installation valued at $180,000. As of the current payment application, the contractor reports that 60% of this work is complete, with no stored materials claimed. What dollar amount of this line item should be reflected as work completed to date on the payment application?",
+    "correctValue": 108000,
+    "tolerance": 1,
+    "unit": "$",
+    "explanation": "Percent complete is applied directly to the scheduled value of the line item to determine the amount earned to date: $180,000 x 0.60 = $108,000. This is the basic calculation underlying each line item on a standard schedule of values used in monthly payment applications.",
+    "tags": [
+      "percent complete",
+      "payment application",
+      "schedule of values"
+    ],
+    "reference": "AIA G703 - Continuation Sheet calculation"
+  },
+  {
+    "id": "CE-ADM-009",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A project has a total contract sum of $5,000,000. Through the current payment application, the contractor has completed and been paid for work totaling $3,200,000, with 5% retainage withheld on all work to date. What is the total dollar amount of retainage withheld as of this payment application?",
+    "correctValue": 160000,
+    "tolerance": 1,
+    "unit": "$",
+    "explanation": "Retainage withheld is calculated by multiplying the total value of completed work to date by the retainage percentage: $3,200,000 x 0.05 = $160,000. This withheld amount provides the owner financial security until the contractor completes the work and resolves any deficiencies, typically released at substantial or final completion.",
+    "tags": [
+      "retainage",
+      "payment application",
+      "calculation"
+    ],
+    "reference": "Retainage withholding calculation"
+  },
+  {
+    "id": "CE-ADM-010",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "hard",
+    "type": "quant",
+    "prompt": "A change order increases the contract sum by $85,000 for added scope and grants the contractor 12 additional calendar days. The original contract sum was $4,150,000 with a 365-day duration. After this change order, and a separate earlier change order that had decreased the contract sum by $20,000 with no time impact, what is the new total contract sum in dollars?",
+    "correctValue": 4215000,
+    "tolerance": 1,
+    "unit": "$",
+    "explanation": "The new contract sum reflects the cumulative effect of all approved change orders: $4,150,000 original + $85,000 (added scope) - $20,000 (earlier deductive change order) = $4,215,000. Tracking the running contract sum across multiple change orders is a routine administrative task during construction.",
+    "tags": [
+      "change order",
+      "contract sum",
+      "cumulative tracking"
+    ],
+    "reference": "Cumulative change order tracking"
+  },
+  {
+    "id": "CE-ADM-011",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which administrative document is used by the architect to formally direct a minor change in the work that does not involve an adjustment to the contract sum or contract time?",
+    "options": [
+      "A construction change directive or architect's supplemental instruction for minor changes",
+      "A certificate for payment",
+      "A notice of substantial completion",
+      "A final lien waiver"
+    ],
+    "correctIndex": 0,
+    "explanation": "Minor changes that do not affect cost or time are typically issued through an instrument like a supplemental instruction, allowing the architect to clarify or adjust the work without the formality of a full change order. Certificates for payment, substantial completion notices, and final lien waivers serve entirely different administrative purposes.",
+    "tags": [
+      "minor changes",
+      "supplemental instructions"
+    ],
+    "reference": "Minor change administrative instruments"
+  },
+  {
+    "id": "CE-ADM-012",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A contractor disputes the architect's decision to reject a payment application line item, asserting the work is complete based on their own field measurements. The owner-architect agreement establishes a specific dispute resolution process for such disagreements. What should the architect do first?",
+    "options": [
+      "Follow the established dispute resolution procedure in the contract, beginning with direct discussion and documentation of the basis for the rejection",
+      "Immediately recommend contract termination for the contractor's dispute",
+      "Disregard the contractor's objection and take no further action",
+      "Refer the matter directly to litigation without using the contract's dispute process"
+    ],
+    "correctIndex": 0,
+    "explanation": "Payment disputes are typically resolved by first following the contract's established claims or dispute resolution procedure, beginning with clear documentation of the basis for the architect's decision and direct communication between the parties. Escalating immediately to termination or litigation skips the structured process most contracts require before invoking more severe remedies.",
+    "tags": [
+      "payment dispute",
+      "claims process"
+    ],
+    "reference": "Contract claims and dispute resolution procedure"
+  },
+  {
+    "id": "CE-ADM-013",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "An RFI log maintained by the architect shows that several RFIs related to the same detail have been submitted by different subcontractors over the course of a month. What does this pattern most likely indicate?",
+    "options": [
+      "The contract documents may contain an ambiguity or coordination issue that should be clarified with a formal drawing revision or bulletin",
+      "The subcontractors are simply unfamiliar with standard construction practices",
+      "The architect should stop responding to any further RFIs on this detail",
+      "The owner should withhold payment from all subcontractors involved"
+    ],
+    "correctIndex": 0,
+    "explanation": "Repeated RFIs on the same detail from multiple parties often signal an underlying ambiguity or coordination problem in the contract documents rather than isolated misunderstandings. The appropriate response is usually to issue a clarifying bulletin or drawing revision so the issue does not continue generating redundant RFIs.",
+    "tags": [
+      "RFI log",
+      "documentation trends",
+      "drawing coordination"
+    ],
+    "reference": "RFI log trend analysis"
+  },
+  {
+    "id": "CE-ADM-014",
+    "division": "CE",
+    "contentAreaCode": "ADM",
+    "difficulty": "hard",
+    "type": "quant",
+    "prompt": "A contractor's pay application for the current period claims $620,000 of work completed, including $45,000 of materials stored on site but not yet installed. The contract allows payment for stored materials. If retainage is withheld at 10% on both installed work and stored materials, what is the net amount due to the contractor for this application before accounting for prior payments?",
+    "correctValue": 558000,
+    "tolerance": 1,
+    "unit": "$",
+    "explanation": "Retainage is applied to the full amount claimed, including stored materials: $620,000 x 0.10 = $62,000 withheld, leaving $620,000 - $62,000 = $558,000 net due for this period before prior payments are subtracted. This reflects standard practice of withholding retainage proportionally on all values certified, whether installed or stored, when the contract permits payment for stored materials.",
+    "tags": [
+      "retainage",
+      "stored materials",
+      "payment application"
+    ],
+    "reference": "Retainage on stored materials"
+  },
+  {
+    "id": "CE-CLO-001",
+    "division": "CE",
+    "contentAreaCode": "CLO",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "What does the Certificate of Substantial Completion primarily establish?",
+    "options": [
+      "The date the owner can occupy or use the project for its intended purpose, even though minor items remain incomplete",
+      "The date all contract retainage is automatically released in full",
+      "The date the contractor's insurance and bonds expire",
+      "The date the architect's services under the agreement are fully terminated"
+    ],
+    "correctIndex": 0,
+    "explanation": "Substantial completion marks the point at which the owner can occupy or use the work for its intended purpose, even though a punch list of minor incomplete items remains. It does not automatically release all retainage, terminate insurance/bonds, or end the architect's contractual services, all of which typically continue through final completion.",
+    "tags": [
+      "substantial completion",
+      "occupancy"
+    ],
+    "reference": "Certificate of Substantial Completion purpose"
+  },
+  {
+    "id": "CE-CLO-002",
+    "division": "CE",
+    "contentAreaCode": "CLO",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "What is a punch list?",
+    "options": [
+      "A list of minor incomplete or deficient items the contractor must correct before final completion",
+      "A list of subcontractors approved to bid on the project",
+      "A schedule of the contractor's equipment purchases",
+      "A list of change orders rejected by the owner"
+    ],
+    "correctIndex": 0,
+    "explanation": "A punch list documents minor items of incomplete or defective work identified, typically around the time of substantial completion, that the contractor must address before the project reaches final completion. It is unrelated to subcontractor bidding, equipment purchases, or rejected change orders.",
+    "tags": [
+      "punch list",
+      "closeout"
+    ],
+    "reference": "Punch list definition"
+  },
+  {
+    "id": "CE-CLO-003",
+    "division": "CE",
+    "contentAreaCode": "CLO",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "During final project closeout, the owner asks the architect when the final application for payment should be processed. What is the most accurate guidance?",
+    "options": [
+      "After the contractor completes all punch list items and submits required closeout documents such as warranties and as-built drawings",
+      "Immediately upon issuance of the Certificate of Substantial Completion",
+      "Only after the building has been occupied for one full year",
+      "As soon as the contractor submits the first payment application"
+    ],
+    "correctIndex": 0,
+    "explanation": "Final payment is typically processed after the contractor has completed all remaining punch list work and submitted required closeout documentation, such as warranties, operation and maintenance manuals, and record drawings. Substantial completion is an earlier milestone, not the trigger for final payment.",
+    "tags": [
+      "final payment",
+      "closeout documentation"
+    ],
+    "reference": "Final completion and final payment sequence"
+  },
+  {
+    "id": "CE-CLO-004",
+    "division": "CE",
+    "contentAreaCode": "CLO",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "Why are accurate as-built (record) drawings important to an owner after project closeout?",
+    "options": [
+      "They document actual installed conditions, which assists with future renovations, maintenance, and facility management",
+      "They are required to obtain the contractor's final lien waiver",
+      "They replace the need for an operations and maintenance manual",
+      "They determine the final retainage percentage to be withheld"
+    ],
+    "correctIndex": 0,
+    "explanation": "As-built or record drawings capture the actual constructed conditions, including field changes made during construction, which is valuable information for future maintenance, renovation, or facility management work. They are a separate closeout deliverable from lien waivers, O&M manuals, and retainage calculations.",
+    "tags": [
+      "as-built drawings",
+      "record drawings",
+      "facility management"
+    ],
+    "reference": "Record drawing closeout deliverable"
+  },
+  {
+    "id": "CE-CLO-005",
+    "division": "CE",
+    "contentAreaCode": "CLO",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "An owner occupies a renovated retail space under a certificate of substantial completion, but six months later discovers a recurring roof leak that was not part of the original punch list and was not apparent during initial occupancy. What is the most relevant concept governing the owner's ability to seek correction from the contractor?",
+    "options": [
+      "The contractor's warranty period for correction of defective work, which typically runs from substantial completion",
+      "The original schedule of values submitted before construction began",
+      "The preconstruction conference meeting minutes",
+      "The contractor's bid bond, which remains in effect indefinitely"
+    ],
+    "correctIndex": 0,
+    "explanation": "Most construction contracts establish a warranty period, commonly one year from substantial completion, during which the contractor remains obligated to correct defective work, including latent defects discovered after occupancy. Bid bonds, schedules of values, and preconstruction meeting minutes are unrelated to post-occupancy defect correction.",
+    "tags": [
+      "warranty period",
+      "latent defects",
+      "correction of work"
+    ],
+    "reference": "One-year correction of work warranty"
+  },
+  {
+    "id": "CE-CLO-006",
+    "division": "CE",
+    "contentAreaCode": "CLO",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "Which of the following are typically required closeout submittals from the contractor before final payment is certified? (Select 3)",
+    "options": [
+      "Operation and maintenance manuals for installed equipment",
+      "Final lien waivers from subcontractors and suppliers",
+      "Record (as-built) drawings reflecting field conditions",
+      "The original geotechnical report used during design",
+      "The architect's certificate of insurance",
+      "The owner's loan application documents"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "selectCount": 3,
+    "explanation": "Standard closeout submittals include operation and maintenance manuals, lien waivers protecting against unpaid claims, and record drawings showing as-built conditions. The geotechnical report, architect's insurance certificate, and owner's loan documents are not contractor closeout deliverables.",
+    "tags": [
+      "closeout submittals",
+      "O&M manuals",
+      "as-built drawings"
+    ],
+    "reference": "Project closeout submittal requirements"
+  },
+  {
+    "id": "CE-CLO-007",
+    "division": "CE",
+    "contentAreaCode": "CLO",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "Which of the following are appropriate uses of post-occupancy evaluation following project completion? (Select 2)",
+    "options": [
+      "Gathering feedback on how well the building performs against the owner's original program and operational needs",
+      "Determining the final retainage percentage withheld during construction",
+      "Identifying lessons learned that can inform design decisions on future projects",
+      "Establishing the contractor's bond amount for the next project",
+      "Calculating liquidated damages owed for late substantial completion"
+    ],
+    "correctIndexes": [
+      0,
+      2
+    ],
+    "selectCount": 2,
+    "explanation": "Post-occupancy evaluation focuses on how the completed building performs relative to the owner's program and operational goals, and on capturing lessons learned to improve future projects. It is unrelated to retainage, bonding amounts, or liquidated damages, which are determined earlier in the construction and closeout process.",
+    "tags": [
+      "post-occupancy evaluation",
+      "lessons learned"
+    ],
+    "reference": "Post-occupancy evaluation purpose"
+  },
+  {
+    "id": "CE-CLO-008",
+    "division": "CE",
+    "contentAreaCode": "CLO",
+    "difficulty": "hard",
+    "type": "quant",
+    "prompt": "A contract sum is $3,600,000 with 10% retainage withheld throughout construction. At substantial completion, the owner agrees to reduce retainage on remaining unpaid balances to 2.5%, consistent with the contract provisions, while the project is 100% complete except for a $40,000 punch list holdback. If the full contract value has been earned and the punch list amount is withheld separately from the reduced retainage, what is the reduced retainage dollar amount on the contract sum (excluding the separate punch list holdback)?",
+    "correctValue": 90000,
+    "tolerance": 1,
+    "unit": "$",
+    "explanation": "The reduced retainage rate is applied to the contract sum: $3,600,000 x 0.025 = $90,000. This is calculated separately from the $40,000 punch list holdback, which is a distinct amount tied to specific incomplete items rather than a percentage-based retainage calculation.",
+    "tags": [
+      "retainage reduction",
+      "substantial completion",
+      "punch list holdback"
+    ],
+    "reference": "Retainage reduction at substantial completion"
+  },
+  {
+    "id": "CE-CLO-009",
+    "division": "CE",
+    "contentAreaCode": "CLO",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which closeout document typically transfers responsibility for building systems maintenance and warranty claims tracking to the owner's facilities staff?",
+    "options": [
+      "Operation and maintenance manuals",
+      "The contractor's bid bond",
+      "The architect's certificate of insurance",
+      "The notice to proceed"
+    ],
+    "correctIndex": 0,
+    "explanation": "Operation and maintenance manuals provide the owner's facilities staff with the information needed to operate, maintain, and track warranties for installed building systems and equipment after occupancy. Bid bonds, insurance certificates, and the notice to proceed serve entirely different purposes earlier in the project.",
+    "tags": [
+      "O&M manuals",
+      "facilities management",
+      "closeout"
+    ],
+    "reference": "O&M manual handoff purpose"
+  },
+  {
+    "id": "CE-CLO-010",
+    "division": "CE",
+    "contentAreaCode": "CLO",
+    "difficulty": "easy",
+    "type": "multi",
+    "prompt": "Which of the following typically occur at or near final completion of a project, after all punch list work is finished? (Select 2)",
+    "options": [
+      "The contractor submits final lien waivers and the architect certifies the final payment application",
+      "The owner and architect hold the initial preconstruction conference",
+      "The contractor mobilizes equipment and begins site work",
+      "The architect issues the certificate of final completion and final payment",
+      "The owner selects the contractor through competitive bidding"
+    ],
+    "correctIndexes": [
+      0,
+      3
+    ],
+    "selectCount": 2,
+    "explanation": "Final completion activities include the contractor providing final lien waivers and the architect certifying the final payment application along with issuing documentation of final completion. Preconstruction conferences, mobilization, and contractor selection all occur much earlier in the project timeline.",
+    "tags": [
+      "final completion",
+      "final payment",
+      "closeout sequence"
+    ],
+    "reference": "Final completion sequence"
+  },
+  {
+    "id": "CE-CLO-011",
+    "division": "CE",
+    "contentAreaCode": "CLO",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "An owner is evaluating whether to formally accept a project at substantial completion despite several open items. Which of the following considerations are appropriate for the architect to raise before recommending the owner sign the certificate? (Select 2)",
+    "options": [
+      "Whether all life-safety systems necessary for occupancy, such as fire alarm and egress, are functional",
+      "Whether the contractor's marketing materials describe the project accurately",
+      "Whether remaining punch list items would prevent the owner from safely using the space for its intended purpose",
+      "Whether the architect's professional liability insurance premium has been paid",
+      "Whether the project has received any industry design awards"
+    ],
+    "correctIndexes": [
+      0,
+      2
+    ],
+    "selectCount": 2,
+    "explanation": "Before recommending substantial completion, the architect should confirm that life-safety systems are functional and that remaining punch list items do not prevent safe, intended use of the space, since these directly affect whether occupancy is appropriate. The contractor's marketing materials, the architect's own insurance premium, and design awards are unrelated to whether the certificate should be issued.",
+    "tags": [
+      "substantial completion",
+      "life safety",
+      "occupancy readiness"
+    ],
+    "reference": "Substantial completion readiness criteria"
+  },
+  {
+    "id": "CE-CLO-012",
+    "division": "CE",
+    "contentAreaCode": "CLO",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A contract requires substantial completion within 240 calendar days of the Notice to Proceed. The contractor actually achieves substantial completion on day 252, but the owner had previously granted a 9-day excusable time extension due to a permitting delay outside the contractor's control. How many calendar days, if any, is the contractor chargeable for liquidated damages?",
+    "correctValue": 3,
+    "tolerance": 0,
+    "unit": "days",
+    "explanation": "The adjusted contract duration becomes 240 + 9 = 249 days after the approved time extension, and the contractor finished on day 252, which is 252 - 249 = 3 days beyond the adjusted deadline. Only the days beyond the adjusted, extended completion date are chargeable for liquidated damages, since the excusable delay period itself is excluded.",
+    "tags": [
+      "liquidated damages",
+      "time extension",
+      "substantial completion"
+    ],
+    "reference": "Liquidated damages after approved time extension"
+  }
+]

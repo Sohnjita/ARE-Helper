@@ -1,0 +1,1156 @@
+[
+  {
+    "id": "PDD-INT-001",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "In a typical rain-screen wall assembly, what is the primary function of the continuous air gap located directly behind the exterior cladding?",
+    "options": [
+      "To allow drainage and pressure equalization so water that gets past the cladding can drain and evaporate",
+      "To provide the primary structural support for the cladding system",
+      "To serve as the principal thermal insulation layer of the wall",
+      "To act as the air barrier that stops all air leakage through the wall"
+    ],
+    "correctIndex": 0,
+    "explanation": "The drainage/airspace cavity behind rain-screen cladding lets incidental water that penetrates the cladding drain down and evaporate, and it helps equalize pressure to reduce wind-driven water intrusion. Structural support, insulation, and air barrier functions are provided by other distinct layers in the assembly.",
+    "tags": [
+      "rain screen",
+      "wall assembly",
+      "moisture control"
+    ],
+    "reference": "Rain-screen wall assembly fundamentals"
+  },
+  {
+    "id": "PDD-INT-002",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "An architect is detailing the intersection of a curtain wall system with an exposed structural steel spandrel beam. Which coordination issue is most critical to resolve during construction documentation?",
+    "options": [
+      "Differential movement between the steel frame and the curtain wall mullions must be accommodated with slip connections and movement joints",
+      "The curtain wall finish color must match the steel beam's paint color exactly",
+      "The mullions must be installed before the steel frame is erected",
+      "The spandrel beam must be the same depth as the curtain wall mullion width"
+    ],
+    "correctIndex": 0,
+    "explanation": "Steel frames and curtain wall systems move differently under thermal expansion, live load deflection, and seismic drift, so anchors must use slotted or slip connections and the assembly must include movement joints. Sequencing and matching aesthetics are secondary considerations that don't address the underlying structural-to-cladding interface problem.",
+    "tags": [
+      "curtain wall",
+      "structural steel",
+      "movement joints"
+    ],
+    "reference": "Curtain wall anchorage and differential movement concepts"
+  },
+  {
+    "id": "PDD-INT-003",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "A design team is integrating a structural steel moment frame with an exterior insulated metal panel system on a mid-rise office building. Which of the following are valid strategies to control thermal bridging at the steel-to-panel interface? (Select 3)",
+    "options": [
+      "Use thermally broken clip systems that separate the panel girts from direct contact with the steel frame",
+      "Wrap continuous insulation over the exterior face of the structural frame before installing girts and panels",
+      "Specify solid steel clip angles bolted directly through the insulation for maximum stiffness",
+      "Stagger insulation joints and minimize the number of penetrations through the continuous insulation layer",
+      "Increase the steel beam depth to compensate for heat loss through the frame",
+      "Omit insulation at steel connection points to simplify field installation"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      3
+    ],
+    "selectCount": 3,
+    "explanation": "Thermal bridging at steel-to-cladding connections is best controlled with thermally broken clips, continuous exterior insulation that wraps the frame, and minimizing/staggering penetrations through that insulation layer. Solid steel clips bolted through insulation and omitting insulation at connections both create direct conductive paths that defeat the purpose of continuous insulation; increasing beam depth does not address conduction.",
+    "tags": [
+      "thermal bridging",
+      "metal panel",
+      "moment frame",
+      "continuous insulation"
+    ],
+    "reference": "Thermal bridging mitigation at structural penetrations"
+  },
+  {
+    "id": "PDD-INT-004",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which building enclosure layer is primarily responsible for controlling the bulk movement of water vapor by diffusion through a wall assembly?",
+    "options": [
+      "The vapor retarder",
+      "The water-resistive barrier",
+      "The air barrier",
+      "The structural sheathing"
+    ],
+    "correctIndex": 0,
+    "explanation": "A vapor retarder is specifically intended to limit vapor diffusion through the wall assembly, while a water-resistive barrier sheds bulk liquid water and an air barrier controls air leakage. Sheathing is primarily a structural and substrate layer, though some sheathing products are also engineered to provide vapor control.",
+    "tags": [
+      "vapor retarder",
+      "building enclosure",
+      "moisture control"
+    ],
+    "reference": "Building enclosure control layers"
+  },
+  {
+    "id": "PDD-INT-005",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "prompt": "On the exterior wall section diagram, click on the water-resistive barrier layer.",
+    "diagramId": "wall-section",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 59,
+      "y": 20,
+      "w": 2,
+      "h": 48,
+      "label": "WRB"
+    },
+    "explanation": "The water-resistive barrier (WRB) is the continuous membrane applied over the sheathing that sheds bulk water to the exterior while still allowing the assembly to manage vapor; it is typically installed before the cladding and drainage cavity are built out. Identifying its location in section is essential for detailing laps, terminations, and tie-ins to flashing.",
+    "tags": [
+      "wrb",
+      "wall section",
+      "moisture control"
+    ],
+    "reference": "Water-resistive barrier placement in wall assemblies"
+  },
+  {
+    "id": "PDD-INT-006",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "hard",
+    "type": "hotspot",
+    "prompt": "A masonry veneer wall over steel studs is being detailed for a building in a heavy rainfall region. On the exterior wall section diagram, click on the through-wall flashing above grade that directs moisture out through the weep holes.",
+    "diagramId": "wall-section",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 56,
+      "y": 66,
+      "w": 16,
+      "h": 4,
+      "label": "Flashing"
+    },
+    "explanation": "Through-wall flashing is installed above grade at the base of the veneer to collect water that penetrates the brick and direct it back to the exterior through weep holes. Without correctly located and detailed flashing, water collecting in the wall cavity has no path out and becomes trapped against the backup wall, accelerating deterioration.",
+    "tags": [
+      "flashing",
+      "weep holes",
+      "masonry veneer",
+      "moisture management"
+    ],
+    "reference": "Masonry veneer flashing and weep hole detailing"
+  },
+  {
+    "id": "PDD-INT-007",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "During design development, the mechanical engineer requests a 24-inch-deep structural floor cavity to route ductwork, while the structural engineer's preliminary floor framing is only 18 inches deep. Which of the following are appropriate actions for the architect to take to resolve this systems conflict? (Select 2)",
+    "options": [
+      "Convene a coordination meeting with the structural and mechanical consultants to evaluate options",
+      "Unilaterally instruct the structural engineer to increase framing depth without consulting the mechanical engineer",
+      "Evaluate whether ductwork can be rerouted around or through structural members without major redesign",
+      "Reduce the ceiling height of the floor below to absorb the difference without telling either consultant",
+      "Wait until construction documents are complete to address the clash during construction administration"
+    ],
+    "correctIndexes": [
+      0,
+      2
+    ],
+    "selectCount": 2,
+    "explanation": "Resolving systems clashes is a coordination function: the architect should bring the affected consultants together and explore options such as rerouting ductwork, adjusting framing depth, or accepting a furred ceiling. Unilateral directives, silently absorbing the conflict, or deferring resolution to construction all increase the risk of costly rework and change orders.",
+    "tags": [
+      "coordination",
+      "systems integration",
+      "floor-to-floor height"
+    ],
+    "reference": "Building systems coordination practices"
+  },
+  {
+    "id": "PDD-INT-008",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which statement best describes the primary purpose of a continuous air barrier system in a building enclosure?",
+    "options": [
+      "It controls uncontrolled air leakage into and out of the conditioned space, improving energy performance and moisture control",
+      "It provides the primary fire-resistance rating for the exterior wall assembly",
+      "It serves as the finish surface visible from the building exterior",
+      "It replaces the need for thermal insulation in the wall assembly"
+    ],
+    "correctIndex": 0,
+    "explanation": "A continuous air barrier limits unwanted air movement through the enclosure, which reduces energy loss and helps prevent moisture-laden air from condensing within wall cavities. It is not a substitute for insulation, fire-rated assemblies, or exterior finish materials, though some products can serve overlapping functions.",
+    "tags": [
+      "air barrier",
+      "building enclosure",
+      "energy performance"
+    ],
+    "reference": "Continuous air barrier fundamentals"
+  },
+  {
+    "id": "PDD-INT-009",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "An architect is reviewing a wall section where a wood-framed exterior wall meets a concrete podium slab on a mixed-use building. Which conditions require specific detailing attention to maintain continuity of the building enclosure's control layers? (Select 2)",
+    "options": [
+      "The transition of the air barrier across the dissimilar wood-to-concrete substrate interface",
+      "Continuity of the water-resistive barrier and flashing where the wood-framed wall bears on the slab edge",
+      "The paint color selected for the interior gypsum board finish",
+      "The carpet tile pattern selected for the lobby floor",
+      "The grade of plywood used for the wood structural sheathing"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "selectCount": 2,
+    "explanation": "Material transitions, such as wood framing bearing on a concrete podium, are classic locations where continuity of the air barrier and water-resistive barrier/flashing can be broken if not specifically detailed, since the two substrates have different attachment methods and movement characteristics. Interior finish selections and material grades do not affect control layer continuity at this transition.",
+    "tags": [
+      "podium construction",
+      "air barrier continuity",
+      "transitions"
+    ],
+    "reference": "Control layer continuity at material transitions"
+  },
+  {
+    "id": "PDD-INT-010",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "prompt": "On the exterior wall section diagram, click on the drainage airspace located behind the veneer.",
+    "diagramId": "wall-section",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 60,
+      "y": 20,
+      "w": 4,
+      "h": 46,
+      "label": "Airspace"
+    },
+    "explanation": "The drainage airspace is the continuous cavity between the back of the veneer and the water-resistive barrier; it allows incidental water to drain to the exterior and promotes evaporation, which is central to rain-screen wall performance. This cavity is distinct from the insulated stud cavity, which is on the interior side of the WRB.",
+    "tags": [
+      "airspace",
+      "drainage cavity",
+      "rain screen"
+    ],
+    "reference": "Drainage cavity placement in veneer wall assemblies"
+  },
+  {
+    "id": "PDD-INT-011",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "A low-slope roof assembly is being designed over a steel deck. Which sequence of layers, from the deck upward, best reflects a conventional (non-inverted) roof membrane assembly?",
+    "options": [
+      "Steel deck, vapor retarder, rigid insulation, roof membrane",
+      "Steel deck, roof membrane, rigid insulation, vapor retarder",
+      "Roof membrane, rigid insulation, vapor retarder, steel deck",
+      "Rigid insulation, steel deck, vapor retarder, roof membrane"
+    ],
+    "correctIndex": 0,
+    "explanation": "In a conventional low-slope roof assembly, the vapor retarder is installed directly over the structural deck, followed by rigid insulation, with the waterproofing membrane as the uppermost layer exposed to weather. An inverted (protected membrane) roof reverses the insulation and membrane order, but that is a distinct assembly type.",
+    "tags": [
+      "roofing",
+      "vapor retarder",
+      "low-slope roof"
+    ],
+    "reference": "Conventional low-slope roof assembly sequencing"
+  },
+  {
+    "id": "PDD-INT-012",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "An exterior wall assembly is built up of the following layers, measured perpendicular to the wall: 4 in. brick veneer, 2 in. drainage airspace, 0.5 in. exterior sheathing, 5.5 in. insulated steel stud cavity, and 0.625 in. interior gypsum board. What is the total nominal thickness of the wall assembly, in inches?",
+    "correctValue": 12.625,
+    "tolerance": 0.05,
+    "unit": "in",
+    "explanation": "Adding each layer's nominal thickness gives the overall assembly depth: 4 + 2 + 0.5 + 5.5 + 0.625 = 12.625 inches. This kind of build-up calculation is routinely needed to confirm that a wall assembly fits within the planned structural grid or setback envelope before detailing.",
+    "tags": [
+      "wall thickness",
+      "assembly build-up",
+      "takeoff"
+    ],
+    "reference": "Exterior wall assembly thickness calculations"
+  },
+  {
+    "id": "PDD-INT-013",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A precast concrete spandrel panel system is being attached to a cast-in-place concrete structural frame. The connections must accommodate which combination of movement sources simultaneously?",
+    "options": [
+      "Thermal expansion/contraction of the panel, structural frame deflection and creep, and seismic or wind drift between floors",
+      "Only the dead load of the panel itself, since precast panels do not experience thermal movement",
+      "Only seismic drift, since thermal and creep movements are negligible in precast systems",
+      "Only moisture-related swelling of the precast panel, since concrete does not expand thermally"
+    ],
+    "correctIndex": 0,
+    "explanation": "Precast panel connections must be designed as a system that accommodates several simultaneous movement sources: thermal cycling of the exposed panel, long-term creep and shrinkage plus elastic deflection of the supporting frame, and lateral drift between floors from wind or seismic loading. Treating any single source in isolation can lead to connection failure or cracking.",
+    "tags": [
+      "precast concrete",
+      "connections",
+      "differential movement"
+    ],
+    "reference": "Precast cladding connection design considerations"
+  },
+  {
+    "id": "PDD-INT-014",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "Which of the following are valid reasons for placing a control joint at a calculated interval in a CMU (concrete masonry unit) wall? (Select 2)",
+    "options": [
+      "To accommodate shrinkage of the masonry in a controlled location",
+      "To accommodate minor differential movement without causing random cracking",
+      "To provide the primary lateral bracing for the wall against wind loads",
+      "To serve as the only acceptable location for electrical conduit penetrations",
+      "To eliminate the need for any flashing elsewhere in the wall"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "selectCount": 2,
+    "explanation": "Control joints are placed at calculated intervals to accommodate shrinkage and minor differential movement of CMU in a predictable location, preventing random, unsightly cracking elsewhere in the wall. They do not provide structural lateral bracing, are not the exclusive location for utility penetrations, and have no relationship to flashing requirements.",
+    "tags": [
+      "cmu",
+      "control joints",
+      "masonry"
+    ],
+    "reference": "CMU control joint placement and function"
+  },
+  {
+    "id": "PDD-INT-015",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "In an integrated ceiling system above an open office, which discipline's components are typically coordinated within the same ceiling plenum zone as architectural ceiling grid and lighting?",
+    "options": [
+      "Mechanical ductwork, fire sprinkler piping, and electrical/data cabling",
+      "Foundation waterproofing and below-grade drainage",
+      "Exterior cladding anchorage systems",
+      "Vehicular pavement striping and wheel stops"
+    ],
+    "correctIndex": 0,
+    "explanation": "The ceiling plenum is a shared zone where mechanical ductwork, fire protection piping/sprinkler heads, and electrical or low-voltage cabling all compete for space alongside the architectural ceiling grid and light fixtures, making reflected ceiling plan coordination essential. Foundation waterproofing, cladding anchorage, and site paving are unrelated to the ceiling plenum.",
+    "tags": [
+      "reflected ceiling plan",
+      "plenum coordination",
+      "mep coordination"
+    ],
+    "reference": "Ceiling plenum systems coordination"
+  },
+  {
+    "id": "PDD-INT-016",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "hard",
+    "type": "quant",
+    "prompt": "A roof-mounted mechanical curb requires a continuous insulation layer to be raised to match the adjacent roof insulation, which is being upgraded from 2 in. to 4.5 in. of polyiso board for energy code compliance. If the curb height was originally detailed at 14 in. above the deck to clear the 2 in. insulation plus membrane, by how many inches must the curb height increase to maintain the same clearance above the new insulation thickness?",
+    "correctValue": 2.5,
+    "tolerance": 0.1,
+    "unit": "in",
+    "explanation": "The insulation thickness increases by 4.5 - 2 = 2.5 inches, and since the curb height was originally set to clear the insulation plus membrane by a fixed margin, the curb must increase by the same 2.5 inches to preserve that clearance above the new, thicker insulation. This type of coordination calculation is common when energy code updates increase required insulation thickness after equipment curbs were already roughed in.",
+    "tags": [
+      "roof curb",
+      "insulation thickness",
+      "coordination"
+    ],
+    "reference": "Roof insulation thickness coordination with curb heights"
+  },
+  {
+    "id": "PDD-INT-017",
+    "division": "PDD",
+    "contentAreaCode": "INT",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "prompt": "On the exterior wall section diagram, click on the parapet cap/coping at the top of the wall.",
+    "diagramId": "wall-section",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 38,
+      "y": 8,
+      "w": 26,
+      "h": 6,
+      "label": "Parapet coping"
+    },
+    "explanation": "Parapet coping caps the top of a parapet wall to shed water away from both wall faces and prevent moisture infiltration into the parapet core; it must integrate with the roof membrane, counterflashing, and wall air/water barriers below it. Improperly detailed parapet copings are a common source of roof and wall leaks.",
+    "tags": [
+      "parapet",
+      "coping",
+      "roof-wall interface"
+    ],
+    "reference": "Parapet coping and termination detailing"
+  },
+  {
+    "id": "PDD-DOC-001",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "On a construction drawing set, which drawing type typically shows the relationship of the building footprint to property lines, easements, and adjacent site features?",
+    "options": [
+      "Site plan",
+      "Reflected ceiling plan",
+      "Wall section",
+      "Door schedule"
+    ],
+    "correctIndex": 0,
+    "explanation": "The site plan establishes the building's location relative to the property boundary, setbacks, easements, parking, and other site features, serving as the base reference drawing for site-related coordination. Reflected ceiling plans, wall sections, and schedules address other aspects of the documentation set.",
+    "tags": [
+      "site plan",
+      "drawing types",
+      "construction documents"
+    ],
+    "reference": "Construction drawing set organization"
+  },
+  {
+    "id": "PDD-DOC-002",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A drafter is preparing a detail at 3 in. = 1 ft-0 in. scale, while the corresponding floor plan is drawn at 1/8 in. = 1 ft-0 in. scale. What is the primary reason for using a much larger scale for the detail than for the plan?",
+    "options": [
+      "Larger-scale details allow the assembly's component dimensions, materials, and connections to be communicated with adequate clarity",
+      "Larger scales are required by convention to be used for all drawings located on the same sheet as a plan",
+      "The detail scale must always be exactly 24 times the plan scale",
+      "Larger-scale drawings reduce the total number of sheets needed in the set"
+    ],
+    "correctIndex": 0,
+    "explanation": "Details are drawn at a larger scale than overall plans because they need to communicate fine-grained information about materials, dimensions, and connections that would be illegible at a small plan scale. There is no fixed numerical ratio requirement between plan and detail scales, and scale choice is about legibility and content, not sheet count.",
+    "tags": [
+      "drawing scale",
+      "details",
+      "drafting conventions"
+    ],
+    "reference": "Drawing scale selection principles"
+  },
+  {
+    "id": "PDD-DOC-003",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "easy",
+    "type": "quant",
+    "prompt": "A floor plan is drawn at a scale of 1/4 in. = 1 ft-0 in. If a wall measures 3.5 inches long on the printed drawing, what is the actual length of that wall in feet?",
+    "correctValue": 14,
+    "tolerance": 0.25,
+    "unit": "ft",
+    "explanation": "At 1/4 in. = 1 ft-0 in., each 1/4 inch on the drawing represents 1 foot of actual length, so the conversion factor is 4 feet per inch measured on the drawing. Multiplying 3.5 inches by 4 ft/in gives 14 feet of actual wall length.",
+    "tags": [
+      "scale conversion",
+      "drawing scale",
+      "measurement"
+    ],
+    "reference": "Architectural drawing scale conversions"
+  },
+  {
+    "id": "PDD-DOC-004",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "Which of the following are standard components typically found in a complete door schedule on a construction drawing set? (Select 3)",
+    "options": [
+      "Door size (width and height)",
+      "Door and frame material",
+      "Fire rating, where applicable",
+      "Structural beam camber values",
+      "Landscape plant species",
+      "Hardware set reference"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "selectCount": 3,
+    "explanation": "A door schedule typically records door size, material, and fire rating (along with frame type and a hardware set cross-reference) for each numbered door in the project. Beam camber and plant species belong to structural drawings and landscape plans, respectively, not the door schedule.",
+    "tags": [
+      "door schedule",
+      "schedules",
+      "construction documents"
+    ],
+    "reference": "Door schedule content conventions"
+  },
+  {
+    "id": "PDD-DOC-005",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "prompt": "On the structural framing plan diagram, click on the shear wall providing lateral resistance along grid line A between gridlines 2 and 3.",
+    "diagramId": "structural-framing",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 17,
+      "y": 48,
+      "w": 5,
+      "h": 34,
+      "label": "Shear wall"
+    },
+    "explanation": "Shear walls are shown on framing plans as heavier wall lines along specific grid line segments and are the primary lateral-load-resisting elements transferring wind and seismic forces to the foundation. Correctly locating shear walls by their grid line references is essential when coordinating architectural partition layouts, door openings, and MEP penetrations so they do not conflict with the structural lateral system.",
+    "tags": [
+      "shear wall",
+      "lateral system",
+      "structural framing plan"
+    ],
+    "reference": "Reading lateral force-resisting elements on structural framing plans"
+  },
+  {
+    "id": "PDD-DOC-006",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "Which of the following statements correctly distinguish a building section from a wall section in a construction drawing set? (Select 2)",
+    "options": [
+      "A building section shows overall floor-to-floor heights and spatial organization through the entire building",
+      "A wall section shows enlarged, detailed assembly information at one specific wall condition",
+      "A building section replaces the need for a wall section on every project",
+      "A wall section always shows the full width of the building from exterior wall to exterior wall",
+      "A building section is drawn at the same large scale as a typical wall detail"
+    ],
+    "correctIndexes": [
+      0,
+      1
+    ],
+    "selectCount": 2,
+    "explanation": "A building section cuts through the whole building to show overall floor-to-floor heights and general spatial/structural organization, while a wall section zooms in on one specific wall condition to communicate detailed assembly information; the two serve complementary, not interchangeable, purposes. Building sections are typically drawn at a smaller scale than wall sections, not the same scale.",
+    "tags": [
+      "building section",
+      "wall section",
+      "drawing types"
+    ],
+    "reference": "Building section vs. wall section purpose"
+  },
+  {
+    "id": "PDD-DOC-007",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which symbol convention is most commonly used on a floor plan to indicate the location and direction from which a building section or wall section is cut?",
+    "options": [
+      "A section cut line with an arrow indicating viewing direction and a reference tag to the corresponding section drawing",
+      "A north arrow placed at the building's main entrance",
+      "A revision cloud with a delta triangle",
+      "A column grid bubble with a numeric label"
+    ],
+    "correctIndex": 0,
+    "explanation": "Section cut lines (often a heavy dashed or solid line with arrows showing the direction of view) combined with a reference tag direct the reader from the plan to the correct section sheet and detail number. North arrows, revision clouds, and column grid bubbles serve other distinct documentation functions.",
+    "tags": [
+      "section symbols",
+      "drawing conventions",
+      "cross-referencing"
+    ],
+    "reference": "Section cut and cross-reference symbol conventions"
+  },
+  {
+    "id": "PDD-DOC-008",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A reflected ceiling plan shows 2x4 ft acoustic ceiling tiles in a rectangular room measuring 24 ft by 16 ft, with tiles running parallel to the 24 ft dimension. Assuming tiles fit exactly with no cutting required, how many whole ceiling tiles are needed to cover the room?",
+    "correctValue": 48,
+    "tolerance": 0,
+    "unit": "tiles",
+    "explanation": "Each tile covers 2 ft x 4 ft = 8 square feet, and the room area is 24 ft x 16 ft = 384 square feet, so 384 / 8 = 48 tiles are needed when the layout divides evenly with no cutting. This kind of basic quantity takeoff is a routine task in reviewing a reflected ceiling plan against the structural grid.",
+    "tags": [
+      "ceiling tiles",
+      "quantity takeoff",
+      "reflected ceiling plan"
+    ],
+    "reference": "Basic quantity takeoff calculations"
+  },
+  {
+    "id": "PDD-DOC-009",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "An architect is preparing a set of addenda drawings to clarify several items prior to bid. Which of the following practices help ensure the addenda are clear and enforceable parts of the contract documents? (Select 2)",
+    "options": [
+      "Clearly clouding and numbering each revised area with a reference back to the addendum number",
+      "Issuing the changes verbally to the general contractor without written documentation",
+      "Including a written narrative in the addendum describing the nature and location of each change",
+      "Waiting until the project is under construction to issue any clarifications discovered before bid",
+      "Omitting the date and addendum number to keep the drawings clean"
+    ],
+    "correctIndexes": [
+      0,
+      2
+    ],
+    "selectCount": 2,
+    "explanation": "Effective addenda use clouding with numbered references tied to a written narrative describing each change's nature and location, so bidders can clearly identify and price the revisions. Verbal-only changes, omitting dates/numbers, and delaying known clarifications until construction all undermine the enforceability and clarity of the contract documents.",
+    "tags": [
+      "addenda",
+      "bidding documents",
+      "revisions"
+    ],
+    "reference": "Addenda issuance practices during bidding"
+  },
+  {
+    "id": "PDD-DOC-010",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "In construction documentation, what is the main purpose of a general note placed on a drawing sheet, as opposed to a keyed note?",
+    "options": [
+      "To convey information that applies broadly to the entire sheet or drawing rather than to one specific location",
+      "To indicate a specific dimension at a single point on the plan",
+      "To replace the need for any specifications in the project manual",
+      "To indicate the revision history of the sheet only"
+    ],
+    "correctIndex": 0,
+    "explanation": "General notes apply to the whole sheet or an entire drawing, covering items such as general assumptions, applicable codes, or sheet-wide conventions, while keyed notes are tied to a specific symbol pointing to a specific location in the drawing. Neither type of note replaces the project manual's specifications, and revision history is tracked separately in a revision block.",
+    "tags": [
+      "general notes",
+      "keyed notes",
+      "drawing conventions"
+    ],
+    "reference": "General notes vs. keyed notes"
+  },
+  {
+    "id": "PDD-DOC-011",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A project's drawing index lists sheet A-501 as 'Exterior Wall Sections' and sheet A-502 as 'Exterior Wall Details.' Which best describes the typical difference in content between these two sheet types?",
+    "options": [
+      "A-501 shows the wall assembly in a continuous vertical cut from foundation to roof, while A-502 shows enlarged details of specific conditions such as openings, terminations, or transitions",
+      "A-501 is used only for structural steel connections, while A-502 is used only for concrete connections",
+      "A-501 and A-502 must always show identical content for code compliance",
+      "A-502 shows the building's overall floor plan layout while A-501 shows finish schedules"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wall section sheets typically show a continuous, large-scale vertical cut through the wall assembly from base to top, establishing the overall composition, while wall detail sheets zoom in even further on specific conditions like window heads, sills, or parapet terminations that need more clarity than the wall section alone provides. They are complementary, not duplicative, and neither is limited to a single structural material.",
+    "tags": [
+      "wall sections",
+      "wall details",
+      "drawing organization"
+    ],
+    "reference": "Wall section and wall detail sheet organization"
+  },
+  {
+    "id": "PDD-DOC-012",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "hard",
+    "type": "hotspot",
+    "prompt": "On the structural framing plan diagram, click on the joist bay spanning between grid lines A-B and 1-2.",
+    "diagramId": "structural-framing",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 20,
+      "y": 20,
+      "w": 30,
+      "h": 30,
+      "label": "Joist bay"
+    },
+    "explanation": "Reading a structural framing plan requires correctly identifying bay locations by their bounding grid lines, since framing members, joist directions, and spans are all referenced to the column grid. The bay between grid lines A-B and 1-2 is the area enclosed by those four grid intersections, distinct from the columns or beam lines that bound it.",
+    "tags": [
+      "framing plan",
+      "grid lines",
+      "joist bay"
+    ],
+    "reference": "Reading structural framing plans by grid reference"
+  },
+  {
+    "id": "PDD-DOC-013",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "An interior elevation references a finish tag that does not appear on the room finish schedule. What is the most appropriate next step for the architect preparing the drawing set for permit submission?",
+    "options": [
+      "Cross-check and correct the discrepancy between the interior elevation and the finish schedule before issuing the set",
+      "Submit the set as-is, since the contractor will resolve any finish discrepancies in the field",
+      "Delete the finish schedule entirely, since interior elevations alone are sufficient",
+      "Add a general note stating that all finishes are 'as selected by owner' to avoid resolving the discrepancy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Before issuing documents for permit or bid, the architect should reconcile discrepancies between related drawings, such as an interior elevation finish tag and the room finish schedule, since unresolved conflicts create ambiguity that can lead to RFIs, incorrect installation, or disputes. Leaving the issue for the field, deleting a schedule, or using a vague general note does not fulfill the architect's documentation responsibility.",
+    "tags": [
+      "finish schedule",
+      "interior elevations",
+      "quality control"
+    ],
+    "reference": "Cross-checking schedules against drawings"
+  },
+  {
+    "id": "PDD-DOC-014",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which of the following is the best description of the purpose of a drawing title block?",
+    "options": [
+      "To provide standardized identifying information such as project name, sheet number, scale, and issue date for every sheet in the set",
+      "To list every product manufacturer referenced anywhere in the specifications",
+      "To replace the need for a drawing index in the set",
+      "To show the structural load calculations for the building"
+    ],
+    "correctIndex": 0,
+    "explanation": "A title block provides consistent identifying information on every sheet, including project name, sheet title and number, scale, and issue date, which helps readers and the design/construction team track and reference drawings accurately. It does not list manufacturers, replace the drawing index, or contain structural calculations, which belong elsewhere in the documents.",
+    "tags": [
+      "title block",
+      "drawing conventions",
+      "sheet organization"
+    ],
+    "reference": "Standard drawing title block content"
+  },
+  {
+    "id": "PDD-DOC-015",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A roof framing plan shows steel joists spaced at 4 ft-0 in. on center spanning a bay that is 32 ft wide, with joists starting flush with one bay edge. How many joists are required to frame the bay, including the joist at each edge?",
+    "correctValue": 9,
+    "tolerance": 0,
+    "unit": "joists",
+    "explanation": "With joists starting flush at one edge and spaced 4 ft on center across a 32 ft span, the number of spaces is 32 / 4 = 8, and the number of joists equals the number of spaces plus one (to include both the starting and ending edge members), giving 8 + 1 = 9 joists. This off-by-one consideration is a common source of error in framing takeoffs.",
+    "tags": [
+      "joist spacing",
+      "framing takeoff",
+      "structural coordination"
+    ],
+    "reference": "Joist spacing and quantity calculations"
+  },
+  {
+    "id": "PDD-DOC-016",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A project's construction documents include a life safety plan, architectural floor plans, and fire protection drawings, each prepared by a different team member. The life safety plan shows a 2-hour rated corridor, but the architectural floor plan does not indicate the corridor's rating anywhere. What is the most significant consequence of this omission if it is not corrected before construction?",
+    "options": [
+      "The contractor may not provide the required fire-rated assembly at the corridor walls, creating a life-safety and code compliance deficiency",
+      "The drawings will be rejected only for failing to match each sheet's title block date",
+      "The omission has no practical effect, since the life safety plan alone governs construction",
+      "The general contractor is legally required to assume the highest possible rating for every wall in the building"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fire-rated corridor requirements must be clearly and consistently communicated on the architectural floor plans (and wall type legend) that the contractor will actually build from; if the rating only appears on a separate life safety plan, there's a real risk the rated assembly is never built, creating a life-safety and code compliance failure. Contractors build from the documents provided and are not expected to infer or assume the most conservative rating absent clear direction.",
+    "tags": [
+      "life safety plan",
+      "fire rating",
+      "coordination",
+      "code compliance"
+    ],
+    "reference": "Coordinating fire-rated assemblies across drawing sets"
+  },
+  {
+    "id": "PDD-DOC-017",
+    "division": "PDD",
+    "contentAreaCode": "DOC",
+    "difficulty": "medium",
+    "type": "hotspot",
+    "prompt": "On the structural framing plan diagram, click on the beam line along grid line B.",
+    "diagramId": "structural-framing",
+    "correctRegion": {
+      "shape": "rect",
+      "x": 48,
+      "y": 20,
+      "w": 4,
+      "h": 60,
+      "label": "Beam line B"
+    },
+    "explanation": "Framing plans organize beams and girders along named or numbered grid lines, and correctly tracing a beam line such as grid line B is necessary to coordinate beam depths, connections, and tributary loads with the architectural reflected ceiling plan and MEP routing above. Misreading which grid line a beam follows is a common coordination error when cross-referencing plans.",
+    "tags": [
+      "framing plan",
+      "beam line",
+      "grid lines"
+    ],
+    "reference": "Reading beam lines on structural framing plans"
+  },
+  {
+    "id": "PDD-SPEC-001",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "In the CSI MasterFormat organizational structure, which numbering level groups specification sections into broad subject categories such as Concrete, Masonry, or Metals?",
+    "options": [
+      "Division",
+      "Section",
+      "Part",
+      "Article"
+    ],
+    "correctIndex": 0,
+    "explanation": "MasterFormat organizes the project manual into Divisions (broad subject groups such as Division 03 Concrete or Division 04 Masonry), which are further broken into individual Sections, each containing Parts (such as Part 1 General, Part 2 Products, Part 3 Execution) and Articles within those Parts. Division is the top organizational level referenced in the question.",
+    "tags": [
+      "masterformat",
+      "csi",
+      "specifications"
+    ],
+    "reference": "CSI MasterFormat organizational structure"
+  },
+  {
+    "id": "PDD-SPEC-002",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A specification section is being written for structural steel framing. Under CSI MasterFormat's numbering convention, in which division would this section most appropriately be located?",
+    "options": [
+      "Division 05 - Metals",
+      "Division 03 - Concrete",
+      "Division 09 - Finishes",
+      "Division 23 - Heating, Ventilating, and Air-Conditioning"
+    ],
+    "correctIndex": 0,
+    "explanation": "Structural steel framing falls under Division 05 - Metals in MasterFormat, which covers structural metal framing, joists, decking, and related metal fabrications. Concrete, finishes, and HVAC are unrelated divisions that cover different categories of work.",
+    "tags": [
+      "masterformat",
+      "division 05",
+      "structural steel"
+    ],
+    "reference": "CSI MasterFormat Division 05 - Metals"
+  },
+  {
+    "id": "PDD-SPEC-003",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "easy",
+    "type": "quant",
+    "prompt": "A specifier needs to assign a MasterFormat division number to a section covering thermal insulation and waterproofing membranes. Which two-digit division number should be used?",
+    "correctValue": 7,
+    "tolerance": 0,
+    "unit": "division no.",
+    "explanation": "Division 07 - Thermal and Moisture Protection is the MasterFormat division covering insulation, waterproofing, air/vapor barriers, roofing, and related weather-protective products and systems. Recognizing the division number for a given material category is a basic skill needed to correctly organize a project manual.",
+    "tags": [
+      "masterformat",
+      "division 07",
+      "thermal moisture protection"
+    ],
+    "reference": "CSI MasterFormat Division 07 - Thermal & Moisture Protection"
+  },
+  {
+    "id": "PDD-SPEC-004",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "Within a typical three-part CSI specification section format, in which part would a manufacturer's submittal requirements and product data requirements most appropriately be located?",
+    "options": [
+      "Part 1 - General",
+      "Part 2 - Products",
+      "Part 3 - Execution",
+      "Part 4 - Maintenance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Part 1 - General is where submittal requirements, references, quality assurance, and administrative requirements are specified, while Part 2 - Products describes the actual materials and equipment, and Part 3 - Execution covers installation procedures. There is no Part 4 in the standard three-part section format.",
+    "tags": [
+      "three-part format",
+      "submittals",
+      "specifications"
+    ],
+    "reference": "CSI three-part specification section format"
+  },
+  {
+    "id": "PDD-SPEC-005",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A specification section for an exterior curtain wall system uses a closed proprietary specification that names a single acceptable manufacturer with no substitution clause. What is the most significant practical implication of this approach for the bidding phase?",
+    "options": [
+      "Competitive bidding may be limited since other manufacturers cannot offer alternative products, which can reduce price competition and may raise legal concerns on publicly bid projects",
+      "The contractor will automatically be required to use the lowest-cost manufacturer regardless of what is named",
+      "The specification will have no effect on which products are installed",
+      "A closed specification eliminates the need for a submittal review process entirely"
+    ],
+    "correctIndex": 0,
+    "explanation": "A closed proprietary specification naming only one acceptable manufacturer with no substitution path restricts competition, which can increase cost and, on publicly funded projects, may conflict with public procurement rules requiring open competition. It does not eliminate the submittal process, and it does not force selection of the lowest-cost option since only one product is named at all.",
+    "tags": [
+      "proprietary specification",
+      "closed specification",
+      "bidding"
+    ],
+    "reference": "Proprietary vs. performance specification types"
+  },
+  {
+    "id": "PDD-SPEC-006",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "Which of the following are recognized specification writing methods used to describe acceptable products in a CSI-formatted specification section? (Select 3)",
+    "options": [
+      "Descriptive specification",
+      "Performance specification",
+      "Proprietary specification",
+      "Geographic specification",
+      "Alphabetical specification",
+      "Numerical specification"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "selectCount": 3,
+    "explanation": "The commonly recognized specification methods are descriptive (specifying material properties and composition without naming a brand), performance (specifying required outcomes and letting the contractor select compliant products), and proprietary (naming specific manufacturers or products, either open or closed). Geographic, alphabetical, and numerical specification are not recognized specification writing methods.",
+    "tags": [
+      "specification methods",
+      "descriptive",
+      "performance",
+      "proprietary"
+    ],
+    "reference": "Specification writing methods overview"
+  },
+  {
+    "id": "PDD-SPEC-007",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "What is the primary purpose of Division 01 - General Requirements in a project manual?",
+    "options": [
+      "To establish administrative and procedural requirements that apply across the entire project, such as submittal procedures, project meetings, and closeout requirements",
+      "To list every finish material used on interior walls",
+      "To describe the structural design criteria for the building's foundation",
+      "To specify the exact paint colors selected by the owner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Division 01 contains general administrative and procedural requirements that apply project-wide, such as submittal procedures, contract modification procedures, temporary facilities, quality requirements, and closeout procedures, rather than describing specific technical products or materials. Finish materials, structural criteria, and paint colors are addressed in their respective technical divisions and drawings.",
+    "tags": [
+      "division 01",
+      "general requirements",
+      "project manual"
+    ],
+    "reference": "CSI MasterFormat Division 01 - General Requirements"
+  },
+  {
+    "id": "PDD-SPEC-008",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "Which of the following building components or assemblies are conventionally specified under CSI MasterFormat Division 09 - Finishes? (Select 3)",
+    "options": [
+      "Gypsum board partition assemblies",
+      "Resilient flooring",
+      "Acoustic ceiling tile systems",
+      "Structural steel framing",
+      "Cast-in-place concrete foundations",
+      "Elevator cab finishes specified within the conveying equipment section"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "selectCount": 3,
+    "explanation": "Division 09 - Finishes covers interior and some exterior finish systems including gypsum board partitions, flooring such as resilient tile, and acoustic ceiling systems. Structural steel framing belongs in Division 05, cast-in-place concrete in Division 03, and elevator-related finishes are typically addressed within the Division 14 conveying equipment section, not Division 09.",
+    "tags": [
+      "division 09",
+      "gypsum board",
+      "masterformat"
+    ],
+    "reference": "CSI MasterFormat Division 09 - Finishes"
+  },
+  {
+    "id": "PDD-SPEC-009",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "hard",
+    "type": "multi",
+    "prompt": "An architect is reviewing a draft project manual before issuing for bid and discovers several coordination problems between the specifications and drawings. Which of the following are valid quality-control concerns to flag before issuance? (Select 2)",
+    "options": [
+      "A specification section references a product that is not shown or tagged anywhere on the drawings",
+      "The specification section numbers follow the CSI MasterFormat numbering convention",
+      "A material specified in Division 07 conflicts with a different material called out for the same condition on the wall section detail",
+      "The table of contents lists section numbers in ascending numerical order",
+      "Each specification section includes a Part 1, Part 2, and Part 3"
+    ],
+    "correctIndexes": [
+      0,
+      2
+    ],
+    "selectCount": 2,
+    "explanation": "Genuine coordination problems include a specified product that never appears on the drawings, and conflicting material call-outs between the specifications and a detail for the same condition; both create ambiguity about design intent. Following MasterFormat numbering, having an ascending table of contents, and using the standard three-part section format are all signs of a well-organized, not problematic, project manual.",
+    "tags": [
+      "quality control",
+      "spec-drawing coordination",
+      "project manual review"
+    ],
+    "reference": "Coordinating specifications with drawings"
+  },
+  {
+    "id": "PDD-SPEC-010",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "Which document is generally considered part of the 'Bidding Requirements' portion of the project manual, rather than part of the Contract or technical specifications?",
+    "options": [
+      "Instructions to Bidders",
+      "Division 09 - Finishes specification sections",
+      "The General Conditions of the Contract for Construction",
+      "Division 23 - HVAC specification sections"
+    ],
+    "correctIndex": 0,
+    "explanation": "Instructions to Bidders is a bidding requirements document that explains the procedures bidders must follow to submit a compliant bid; it is distinct from the Contract Conditions (such as General Conditions) and from the technical specification divisions like Division 09 or Division 23, which describe the actual work to be performed.",
+    "tags": [
+      "bidding requirements",
+      "project manual organization",
+      "instructions to bidders"
+    ],
+    "reference": "Project manual organization - bidding requirements"
+  },
+  {
+    "id": "PDD-SPEC-011",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "medium",
+    "type": "multi",
+    "prompt": "A specification section requires several types of contractor submittals before a countertop material is fabricated and installed. Which of the following are recognized submittal types referenced in Division 01? (Select 3)",
+    "options": [
+      "Sample submittals showing actual material color, texture, or pattern",
+      "Shop drawing submittals showing fabrication and installation details",
+      "Product data submittals describing manufacturer specifications and performance",
+      "Schedule of values submittals establishing the contractor's profit margin",
+      "Punch list submittals identifying defective work for the architect to correct personally"
+    ],
+    "correctIndexes": [
+      0,
+      1,
+      2
+    ],
+    "selectCount": 3,
+    "explanation": "Recognized submittal types commonly required before fabrication and installation include samples (physical material for appearance review), shop drawings (graphic fabrication/installation information), and product data (manufacturer's printed data on performance and specifications). The schedule of values is a payment administration document, not a product submittal, and a punch list identifies incomplete or defective work for the contractor, not the architect, to correct.",
+    "tags": [
+      "submittals",
+      "samples",
+      "specifications"
+    ],
+    "reference": "Submittal types in Division 01"
+  },
+  {
+    "id": "PDD-SPEC-012",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A specification for an exterior insulation and finish system (EIFS) is written using performance language that states the system 'shall achieve a minimum thermal resistance of R-13 and shall resist wind loads as determined by the project's structural engineer,' without naming a specific manufacturer or product. What is the primary trade-off of this performance-based approach compared to a proprietary specification?",
+    "options": [
+      "It gives the contractor flexibility to select among compliant products, but places more responsibility on the specifier to clearly define all required performance criteria and on the architect to verify compliance during submittal review",
+      "It guarantees the lowest possible installed cost regardless of which product is chosen",
+      "It eliminates the need for any submittal review since performance criteria are self-enforcing",
+      "It is only legally permitted on privately funded projects"
+    ],
+    "correctIndex": 0,
+    "explanation": "Performance specifications grant the contractor flexibility to propose any product meeting stated criteria, which can increase competition, but require the specifier to anticipate and clearly state every relevant performance requirement and require careful submittal review to confirm the selected product actually complies. Performance language does not guarantee lowest cost, does not remove the need for submittal review, and is not restricted to private projects.",
+    "tags": [
+      "performance specification",
+      "eifs",
+      "submittal review"
+    ],
+    "reference": "Performance specification trade-offs"
+  },
+  {
+    "id": "PDD-SPEC-013",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "medium",
+    "type": "quant",
+    "prompt": "A specifier is assigning a MasterFormat division number to a section covering elevators and escalators. Which two-digit division number should be used?",
+    "correctValue": 14,
+    "tolerance": 0,
+    "unit": "division no.",
+    "explanation": "Division 14 - Conveying Equipment covers elevators, escalators, moving walks, and similar vertical and horizontal transportation systems within a building. Recognizing which division houses a given building system is essential for organizing the project manual and cross-referencing related drawings.",
+    "tags": [
+      "masterformat",
+      "division 14",
+      "conveying equipment"
+    ],
+    "reference": "CSI MasterFormat Division 14 - Conveying Equipment"
+  },
+  {
+    "id": "PDD-SPEC-014",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "easy",
+    "type": "single",
+    "prompt": "What is the main purpose of including reference standards, such as ASTM or ANSI standards, within a specification section?",
+    "options": [
+      "To establish an objective, third-party-verified benchmark for material quality, testing, or performance that the contractor must meet",
+      "To replace the need for the contractor to submit any product data",
+      "To set the contract price for the work described in that section",
+      "To define the project's overall schedule and milestones"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reference standards incorporated by citation give specifiers a concise, objective, and industry-recognized way to establish required material properties, testing methods, or installation quality without having to rewrite those criteria from scratch. They do not eliminate submittal requirements, and they have no bearing on contract price or project scheduling, which are addressed elsewhere in the contract documents.",
+    "tags": [
+      "reference standards",
+      "astm",
+      "specification writing"
+    ],
+    "reference": "Use of reference standards in specifications"
+  },
+  {
+    "id": "PDD-SPEC-015",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "medium",
+    "type": "single",
+    "prompt": "A general contractor submits a request for substitution for a specified roofing membrane product, proposing an alternate product from a different manufacturer not named in the specification. What is the architect's most appropriate course of action?",
+    "options": [
+      "Evaluate the substitution request against the specified performance criteria and submittal requirements before approving or rejecting it",
+      "Automatically reject the substitution because the specification is proprietary",
+      "Automatically approve the substitution since the contractor proposed it",
+      "Forward the request to the building official for a code determination, since substitutions are a code compliance issue only"
+    ],
+    "correctIndex": 0,
+    "explanation": "When a substitution request is submitted, the architect's role is to evaluate whether the proposed product genuinely meets the specified performance, quality, and compatibility criteria before deciding whether to approve or reject it; this evaluation applies regardless of whether the original specification was open or closed in format. Automatic rejection or approval bypasses the architect's review responsibility, and substitution review is a contract administration function, not a code official's role.",
+    "tags": [
+      "substitutions",
+      "submittal review",
+      "specifications"
+    ],
+    "reference": "Substitution request review process"
+  },
+  {
+    "id": "PDD-SPEC-016",
+    "division": "PDD",
+    "contentAreaCode": "SPEC",
+    "difficulty": "hard",
+    "type": "single",
+    "prompt": "A project manual's Division 07 waterproofing section requires a specific manufacturer's liquid-applied membrane, but Part 3 - Execution of the same section instructs the installer to follow 'the manufacturer's written instructions' for surface preparation without restating any specifics. Why is this cross-reference to manufacturer's instructions a common and acceptable specification-writing technique, rather than a deficiency?",
+    "options": [
+      "It incorporates detailed, product-specific installation requirements that can change between manufacturer revisions, without requiring the specifier to rewrite those details and risk them becoming outdated",
+      "It is legally required on every Division 07 section regardless of context",
+      "It removes the contractor's obligation to follow any part of the specification section",
+      "It means the architect is not responsible for reviewing the installer's qualifications"
+    ],
+    "correctIndex": 0,
+    "explanation": "Referencing 'manufacturer's written instructions' is a common technique that incorporates detailed, product-specific procedures (which may be updated by the manufacturer over time) without requiring the specifier to transcribe and continually update those details within the section itself. It does not waive any other part of the specification, is not a blanket legal mandate independent of context, and does not relieve the architect of reviewing installer qualifications addressed elsewhere in the section.",
+    "tags": [
+      "manufacturer instructions",
+      "execution requirements",
+      "waterproofing"
+    ],
+    "reference": "Incorporating manufacturer's instructions by reference"
+  }
+]
